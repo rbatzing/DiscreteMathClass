@@ -38,9 +38,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title and Author
 % Change for each document
-\title{โครงสร้างเอกสารรายงานการวิจัย}
-\author{อ.~ดร.~โรเบิร์ท~แบทซิงเงอร์\and
-อ.~นิภาภรณ์~เอื้อตรงจิตต์}%
+\title{Choose an appropriate title that uses less than 250 characters}
+\author{Student 1 (id number)\and
+Student 2 (id number)}%
 \date{สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์\\
     มหาวิทยาลัยพายัพ จังหวัดเชียงใหม่ 50000\\
     ประเทศไทย}
@@ -77,7 +77,7 @@ backgroundcolor=\color{LightYellow}}
 \maketitle
 
 \begin{abstract}
-Abstract
+The Abstract summarizes the research project in less than 2,500 characters.
 \end{abstract}
 
 \bigskip
@@ -85,20 +85,45 @@ Abstract
 
 \section{บทนำ}
 \label{introduction}
-Introduction
+Introduction defines and describes the research question you are trying to answer.
 
 \section{ระเบียบวิธี}
 \label{methodology}
-Methods used
+Methodology describes the methods and technology did you use to do this research
 
 
 \section{ผลการวิจัย}
 \label{results}
-Results
+Results provide tables and graphs of your results and describe the key findings
+
+\begin{table}[htb]
+\caption{A list of textbooks used for the course}
+\label{textbookList}
+\medskip
+\centering
+\small
+\begin{tabular}{cr}
+\textbf{Author} & \textbf{Pages} \\
+1 &	5.333333333 \\
+2 &	10.66666667 \\
+3 &	16.00000000 \\
+4 &	21.33333333 \\
+5 &	26.66666667 \\
+\end{tabular}
+\end{table}
+
+This is the text of my paper as seen in Figure \ref{fig_graph1}.
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=2.5in]{img/graph1.png}
+\caption{Time series study}
+\label{fig_graph1}
+\end{figure}
 
 \section{ข้อสรุป}
 \label{conclusion}
-Conclusion
+Conclusion summarizes your findings and recommends the best answer for your research questions
 
 % use section* for acknowledgment
 \section*{คำกล่าวขวัญ}
