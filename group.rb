@@ -154,9 +154,12 @@ msgEnd
 end
 
 if __FILE__ == $0
-SAMPLE_SIZE = 1000
+ss = [200,2000,20000]
 FRACTION = 250  
-	t = SetTest.new(SAMPLE_SIZE,FRACTION)
+ss.each do |s|
+puts "SAMPLES SIZE = #{s} =========== "
+
+	t = SetTest.new(s,FRACTION)
 	puts t.setU
 	t.countA; puts t
 	t.countB; puts t
@@ -192,4 +195,5 @@ FRACTION = 250
 		end
 
 	end
+end
 end

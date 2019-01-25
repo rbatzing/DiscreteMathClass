@@ -1,0 +1,37 @@
+---
+StuID: !ruby/object:Question
+  question: What is your student ID number
+  response: '122'
+FullName: !ruby/object:Question
+  question: What is your full name
+  response: Dr Bob
+NickName: !ruby/object:Question
+  question: What is your nick name
+  response: 'yes'
+Email: !ruby/object:Question
+  question: What email address do you use
+  response: 'yes'
+GitLab: !ruby/object:Question
+  question: What is your GITLab account name
+  response: rbatz
+Reason: !ruby/object:Question
+  question: Why are you taking this course
+  response: fuyn
+Goal: !ruby/object:Question
+  question: What aspect of computing do you want to study
+  response: kdkd
+Math: !ruby/object:Question
+  question: What words describe your feelings about mathematics
+  response: dd
+Gitexp: !ruby/object:Question
+  question: Have you ever used Git before
+  response: d\yes
+Rubyexp: !ruby/object:Question
+  question: Have you ever programmed in Ruby
+  response: 'yes'
+LabPartner: !ruby/object:Question
+  question: Who will be your lab partner for this term
+  response: jsdfkjsdl
+Computer: !ruby/object:Question
+  question: What computer CPU and OS do your use for your homework
+  response: Win 10

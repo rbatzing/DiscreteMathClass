@@ -1,0 +1,1405 @@
+gender,age,race,education,education_group,income,employment,job_role,region,ITwealth,IThealth,ITcivic,ITwork
+Male,25 to 34,White,Some college,Some college,$50K-$74K,Student,Technical/skilled trade,Pacific,0,0,0,0
+Male,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,West South Central,0,0,0,0
+Male,35 to 44,White,Elementary,HighSchool or less,$25K-$49K,Disabled/Unable to work,Logistics/transportation,East North Central,2.5,0,0,0
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,West North Central,3,2,2,2
+Male,55 to 64,Multiple races,Some college,Some college,$50K-$74K,Retired,Not employed,Middle Atlantic,5,2.5,5,4
+Female,25 to 34,Black,Some college,Some college,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,4.5,5,2
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4,4,4,4.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,East North Central,5,3.5,3,5
+Female,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,West South Central,5,3.5,5,3
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,Middle Atlantic,5,3,4.5,4
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Not employed,Middle Atlantic,5,3.5,4.5,3.5
+Female,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Other,New England,4,5,4,3.5
+Male,35 to 44,Multiple races,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Logistics/transportation,East South Central,5,3,5,3.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Other,Mountain,5,4.5,5,2
+Male,25 to 34,White,Some HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,East North Central,2,2.5,1.5,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,New England,4.5,3.5,4,4.5
+Female,35 to 44,Multiple races,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,Middle Atlantic,4.5,4.5,4.5,3
+Female,45 to 54,White,Some college,Some college,$75K-$99K,Employed/Working part-time,Admin professional,West South Central,5,3.5,4.5,3.5
+Male,45 to 54,Black,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,5,2
+Female,35 to 44,Black,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Sales/service,South Atlantic,4.5,4,5,3
+Female,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working part-time,Other,East North Central,4,3.5,5,4
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,East South Central,4.5,3.5,4.5,4
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,Middle Atlantic,4.5,4.5,5,2.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3,4,5,4.5
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,4,4.5,4,4
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Other,East South Central,2,0,5,2
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Not employed/Looking for work,Not employed,Middle Atlantic,4,3.5,5,4
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,2,5,4.5
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Admin professional,Middle Atlantic,4.5,2,5,5
+Female,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,5,5,4.5,2
+Male,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Other,West North Central,5,4.5,4,3
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Technical/skilled trade,West South Central,5,4.5,5,2
+Male,25 to 34,White,Some graduate school,Post-graduate,$75K-$99K,Not employed/Looking for work,Logistics/transportation,East North Central,3,3.5,5,5
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Logistics/transportation,East North Central,4,4.5,5,3
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,Middle Atlantic,5,3.5,5,3
+Male,55 to 64,Asian,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,West South Central,5,3,4.5,4
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,2,2,2.5,2.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,5,2.5,4.5,4.5
+Female,45 to 54,American Indian or Alaskan Native,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,Pacific,5,4.5,5,2
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,East North Central,5,3.5,3,5
+Female,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,West South Central,4.5,3,5,4
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Not employed,Middle Atlantic,4.5,4.5,4.5,3
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,East North Central,5,3,4,4.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Not employed,South Atlantic,4.5,4,5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Disabled/Unable to work,Not employed,Middle Atlantic,4,4,5,3.5
+Female,65 to 74,Black,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Other,West South Central,2,5,5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Other,East North Central,5,3,5,3.5
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,Middle Atlantic,2,2,2,3
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,East North Central,5,3,5,3.5
+Male,75 or older,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,East North Central,4,5,3,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Other,Mountain,4,3,4.5,5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,West South Central,4.5,4,4.5,4
+Male,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Mountain,5,4.5,4.5,3
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Other,East North Central,5,4.5,5,2.5
+Female,25 to 34,White,Some graduate school,Post-graduate,$25K-$49K,Student,Not employed,West South Central,4.5,4.5,5,3
+Male,18 to 24,Asian,Some college,Some college,$100K-$149K,Employed/Working part-time,Other,Pacific,5,3.5,5,3.5
+Male,25 to 34,White,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,South Atlantic,5,2.5,5,4.5
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Pacific,5,4.5,4,3.5
+Male,18 to 24,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Not employed,South Atlantic,1,2,4.5,1.5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working part-time,Technical/skilled trade,South Atlantic,4.5,4,5,3.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,East South Central,4.5,2.5,5,5
+Male,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Middle Atlantic,5,4,4.5,3.5
+Male,55 to 64,Black,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,5,5,3.5,3.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Owner/Exec/Mgmt,Middle Atlantic,5,4.5,5,2.5
+Male,45 to 54,Multiple races,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Sales/service,South Atlantic,4.5,5,4.5,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Other,Middle Atlantic,5,3.5,5,3.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,4.5,3.5,4.5,4.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,5,4.5,4.5,3
+Male,45 to 54,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Logistics/transportation,East North Central,4,4,4.5,4.5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Sales/service,Middle Atlantic,1,4.5,3,0.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,West North Central,5,3,4.5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,New England,4.5,3.5,5,4
+Female,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,5,3,5,4
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,5,3.5,3.5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,West North Central,5,4,3,5
+Female,45 to 54,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,South Atlantic,5,3.5,4.5,4
+Male,55 to 64,Black,Some college,Some college,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,3,4.5,4.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,West North Central,4.5,3,5,4.5
+Female,45 to 54,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,West South Central,5,3,4.5,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,East South Central,5,4.5,4.5,3
+Male,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,Pacific,0,3,3.5,2.5
+Female,55 to 64,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working part-time,Sales/service,Pacific,5,5,5,2
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Sales/service,West South Central,4.5,5,5,2.5
+Male,35 to 44,Some other race,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Other,Middle Atlantic,4,4.5,3.5,5
+Male,65 to 74,White,Some graduate school,Post-graduate,$0-$24K,Retired,Not employed,Pacific,5,4.5,5,2.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Other,Pacific,4.5,5,4.5,3
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working part-time,Owner/Exec/Mgmt,South Atlantic,5,5,5,2
+Female,55 to 64,Black,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,South Atlantic,5,3.5,3.5,5
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,3,5,4
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,East North Central,5,5,4.5,2.5
+Female,35 to 44,Black,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,5,2.5
+Male,18 to 24,Some other race,Some college,Some college,$25K-$49K,Student,Not employed,Pacific,3,2,2,2
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Not employed-NOT looking for work,Licensed professional,Pacific,5,2.5,5,4.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Admin professional,Pacific,5,4,3.5,4.5
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Licensed professional,New England,5,3,4,5
+Male,55 to 64,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,West North Central,5,3,4.5,4.5
+Female,25 to 34,Black,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Other,South Atlantic,4.5,3.5,4.5,4.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4.5,4.5,5,3
+Female,25 to 34,White,Some college,Some college,$0-$24K,Student,Not employed,South Atlantic,5,3.5,5,3.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,Pacific,3.5,4.5,5,4
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,East North Central,4.5,3.5,5,4
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3.5,3.5,5
+Male,35 to 44,Asian,Some college,Some college,$0-$24K,Employed/Working FT,Other,Pacific,2,2,3,2
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Admin professional,Middle Atlantic,4.5,4,4.5,4
+Female,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Not employed-NOT looking for work,Not employed,New England,5,4.5,5,2.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,South Atlantic,3.5,5,5,3.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,New England,5,4.5,4.5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,4.5,5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,Middle Atlantic,5,4,5,3
+Male,65 to 74,White,Some college,Some college,$100K-$149K,Employed/Working FT,Licensed professional,West South Central,4,4.5,5,3.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4.5,4,4,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,West North Central,5,2.5,4.5,5
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Student,Not employed,South Atlantic,5,5,5,2
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,1,0.5,0,1
+Male,25 to 34,Multiple races,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,West South Central,2,2.5,0,4.5
+Other,25 to 34,Multiple races,Some graduate school,Post-graduate,$0-$24K,Disabled/Unable to work,Arts/performer,South Atlantic,5,3,5,4
+Female,25 to 34,American Indian or Alaskan Native,Some college,Some college,$0-$24K,Employed/Working part-time,Technical/skilled trade,Mountain,5,4,4.5,3.5
+Female,18 to 24,White,Some college,Some college,$150K and up,Student,Not employed,Middle Atlantic,5,5,5,2
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Owner/Exec/Mgmt,East North Central,5,5,4.5,2.5
+Male,55 to 64,Multiple races,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,Pacific,4,4.5,4.5,4
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Logistics/transportation,East North Central,5,4.5,4.5,3
+Male,55 to 64,White,Some college,Some college,$150K and up,Employed/Working FT,Technical/skilled trade,Pacific,4.5,3,5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Other,West North Central,4.5,3.5,4.5,4.5
+Male,55 to 64,White,Some college,Some college,$50K-$74K,Retired,Not employed,West North Central,4.5,3,4.5,5
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,Pacific,4.5,4.5,5,3
+Male,18 to 24,Some other race,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Contract/freelance,Pacific,2,2.5,4.5,0
+Female,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Owner/Exec/Mgmt,South Atlantic,4.5,4.5,5,3
+Female,55 to 64,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,Mountain,5,3,4.5,4.5
+Female,45 to 54,Black,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,5,3.5,5,3.5
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,5,5,2
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,West North Central,4.5,4.5,4.5,3.5
+Female,55 to 64,Some other race,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Contract/freelance,South Atlantic,4.5,4.5,4.5,3.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Admin professional,Mountain,5,5,4.5,2.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,New England,5,3,5,4
+Male,75 or older,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,East South Central,5,2.5,5,4.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,East North Central,5,3.5,5,3.5
+Male,65 to 74,Asian,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,Pacific,3,3,2.5,0.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,South Atlantic,5,4.5,4.5,3
+Female,18 to 24,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Sales/service,Pacific,5,3,4.5,4.5
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,4.5,4.5,3
+Male,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working part-time,Other,Middle Atlantic,5,4.5,4.5,3.5
+Male,18 to 24,Some other race,Some college,Some college,$0-$24K,Employed/Working FT,Other,Pacific,4.5,5,4.5,3.5
+Male,18 to 24,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,5,3,5
+Male,35 to 44,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,5,3,5,4.5
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Contract/freelance,East South Central,5,4.5,4.5,3.5
+Female,35 to 44,Asian,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Admin professional,South Atlantic,4.5,5,5,3
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,5,4.5,3
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,New England,1.5,3,2.5,2
+Male,35 to 44,Black,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Logistics/transportation,East South Central,5,3.5,4.5,4.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Not employed-NOT looking for work,Owner/Exec/Mgmt,Pacific,5,2.5,5,5
+Male,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,,5,3,4.5,5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,Middle Atlantic,5,4,5,3.5
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Sales/service,West North Central,5,2.5,5,5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,East North Central,4.5,3.5,5,4.5
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Technical/skilled trade,West North Central,5,4.5,4.5,3.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Not employed/Looking for work,Not employed,West South Central,5,5,5,2.5
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Sales/service,East North Central,5,4.5,5,3
+Male,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Other,Middle Atlantic,5,3.5,5,4
+Female,45 to 54,Multiple races,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,Pacific,2,2,3,2
+Other,18 to 24,White,Some college,Some college,$75K-$99K,Student,Other,Pacific,4.5,3.5,5,4.5
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Owner/Exec/Mgmt,East North Central,4.5,4,4.5,4.5
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,5,4,5,3.5
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Other,West North Central,4.5,5,4.5,3.5
+Male,25 to 34,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,Pacific,4,4.5,5,4
+Female,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Licensed professional,West North Central,4.5,3.5,5,4.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,5,5,5,2.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,East North Central,5,2.5,5,5
+Female,25 to 34,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Admin professional,Middle Atlantic,5,5,4.5,3
+Female,35 to 44,Multiple races,Graduate degree,Post-graduate,$150K and up,Not employed-NOT looking for work,Contract/freelance,East North Central,3.5,5,4.5,4.5
+Female,45 to 54,Multiple races,Graduate degree,Post-graduate,$25K-$49K,Student,Technical/skilled trade,East South Central,4.5,0.5,3.5,0.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working part-time,Sales/service,Middle Atlantic,5,4.5,5,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,5,3,5,4.5
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,East South Central,5,3,5,4.5
+Female,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Admin professional,East North Central,5,2.5,5,5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,West North Central,5,5,5,2.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,New England,4.5,4.5,4,4.5
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,South Atlantic,5,5,5,2.5
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,South Atlantic,3.5,4.5,4.5,5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,Pacific,5,5,5,2.5
+Female,45 to 54,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Sales/service,South Atlantic,5,4.5,5,3
+Male,45 to 54,Black,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,2,2,4,1
+Female,35 to 44,Some other race,Some college,Some college,$0-$24K,Employed/Working FT,Licensed professional,Middle Atlantic,5,4.5,4.5,3.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Not employed/Looking for work,Owner/Exec/Mgmt,Pacific,3.5,5,4.5,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,5,4,5,3.5
+Female,35 to 44,Multiple races,Some graduate school,Post-graduate,$100K-$149K,Employed/Working part-time,Admin professional,Mountain,5,4.5,5,3
+Female,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,Pacific,4.5,3.5,5,4.5
+Male,45 to 54,Black,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,5,3.5,5,4
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,Middle Atlantic,5,5,5,2.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,South Atlantic,4.5,3.5,5,4.5
+Male,55 to 64,White,Some HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,New England,5,5,3,4.5
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,5,3.5,5,4
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Licensed professional,West North Central,1.5,1,4,2.5
+Female,45 to 54,Black,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Admin professional,South Atlantic,5,3,5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Sales/service,South Atlantic,4.5,4,5,4
+Male,65 to 74,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4.5,5,5,3
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Licensed professional,Mountain,5,5,5,2.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,East South Central,5,5,5,2.5
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Employed/Working part-time,Technical/skilled trade,Pacific,4.5,5,5,3
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Other,Mountain,5,4.5,3.5,4.5
+Female,55 to 64,Black,Some graduate school,Post-graduate,$150K and up,Employed/Working part-time,Owner/Exec/Mgmt,East North Central,4.5,3.5,5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,New England,5,5,5,2.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,South Atlantic,4.5,4.5,4.5,4
+Female,25 to 34,Asian,Some college,Some college,$0-$24K,Employed/Working FT,Licensed professional,Mountain,3.5,1.5,1,3
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,East North Central,4.5,3.5,4.5,5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,4.5,5,4.5
+Female,45 to 54,Black,Some college,Some college,$0-$24K,Employed/Working part-time,Other,East South Central,3.5,5,4.5,4.5
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Not employed,East North Central,5,4.5,4.5,3.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Admin professional,Pacific,4.5,5,3.5,4.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,5,2.5,5,5
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working part-time,Owner/Exec/Mgmt,Mountain,4,4.5,4.5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Sales/service,South Atlantic,4.5,4.5,5,3.5
+Male,75 or older,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Licensed professional,South Atlantic,4.5,3.5,5,4.5
+Female,25 to 34,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,East South Central,5,4.5,5,3
+Male,75 or older,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Not employed,Middle Atlantic,4.5,2,2.5,0
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,New England,5,5,5,2.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Admin professional,East North Central,5,3.5,4,5
+Female,65 to 74,White,Some graduate school,Post-graduate,$0-$24K,Retired,Owner/Exec/Mgmt,East South Central,4,5,4.5,4
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,East South Central,4.5,4,4.5,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,3.5,5,4.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$25K-$49K,Not employed/Looking for work,Other,South Atlantic,4,4.5,5,4.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,Pacific,5,3,5,5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,5,3,5,5
+Male,18 to 24,White,Graduate degree,Post-graduate,$0-$24K,Employed/Working part-time,Sales/service,Pacific,5,4.5,4,4.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Not employed/Looking for work,Not employed,Pacific,5,3.5,5,4.5
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Contract/freelance,East North Central,0,2,0,1
+Female,18 to 24,Multiple races,Some college,Some college,$0-$24K,Student,Not employed,New England,3.5,2,0,3.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,Mountain,5,3.5,4.5,5
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,Middle Atlantic,5,5,5,3
+Male,65 to 74,White,Some college,Some college,$100K-$149K,Retired,Not employed,East North Central,5,4.5,5,3.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Technical/skilled trade,South Atlantic,4.5,5,4.5,4
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Contract/freelance,Pacific,4.5,5,5,3.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,3.5,4.5,5
+Female,55 to 64,Multiple races,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Admin professional,South Atlantic,4.5,5,4.5,4
+Female,55 to 64,White,Some college,Some college,$100K-$149K,Employed/Working FT,Sales/service,Pacific,5,5,3,5
+Female,45 to 54,Some other race,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,5,5,5,3
+Female,45 to 54,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,4,4.5,4.5,5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Sales/service,Pacific,4.5,3,1,0.5
+Male,55 to 64,Black,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,4.5,4.5,4
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,New England,4.5,4.5,5,4
+Female,65 to 74,White,Some graduate school,Post-graduate,$25K-$49K,Retired,Licensed professional,East South Central,5,5,5,3
+Female,18 to 24,Black,Some college,Some college,$0-$24K,Employed/Working FT,Other,East North Central,4.5,3.5,5,5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Student,Not employed,Middle Atlantic,4.5,3.5,5,5
+Male,75 or older,White,Some graduate school,Post-graduate,$100K-$149K,Retired,Sales/service,West South Central,5,4.5,3.5,5
+Male,25 to 34,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Technical/skilled trade,New England,5,3,5,5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,New England,5,3.5,5,4.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3.5,5,4.5,5
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Admin professional,Pacific,5,5,4.5,3.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Not employed,Pacific,2,2,5,0
+Female,65 to 74,White,Some college,Some college,$0-$24K,Retired,Not employed,South Atlantic,4.5,5,4.5,4
+Female,18 to 24,Multiple races,Some graduate school,Post-graduate,$0-$24K,Student,Not employed,Mountain,4.5,5,4,4.5
+Male,65 to 74,Some other race,Some graduate school,Post-graduate,$100K-$149K,Retired,Technical/skilled trade,East North Central,5,3,5,5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,3.5,4.5,5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,New England,5,4,4.5,4.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,East South Central,5,3.5,5,4.5
+Female,35 to 44,Multiple races,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West North Central,4.5,4,5,4.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,East North Central,5,5,5,3
+Female,35 to 44,White,Graduate degree,Post-graduate,$75K-$99K,Not employed/Looking for work,Other,West North Central,4.5,4.5,5,4
+Female,35 to 44,White,Graduate degree,Post-graduate,$0-$24K,Student,Not employed,West North Central,5,3.5,5,4.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,5,1,1,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Not employed,Middle Atlantic,5,3,5,5
+Other,18 to 24,Multiple races,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Admin professional,Pacific,4.5,5,5,3.5
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Retired,Not employed,South Atlantic,4.5,5,5,3.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,East South Central,5,5,4,4
+Male,65 to 74,American Indian or Alaskan Native,Graduate degree,Post-graduate,$100K-$149K,Retired,Other,Pacific,3.5,4.5,5,5
+Female,65 to 74,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Sales/service,Pacific,5,5,5,3
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Licensed professional,East North Central,4.5,4.5,4.5,4.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,Pacific,4,4,5,5
+Male,55 to 64,Multiple races,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Mountain,5,5,3.5,4.5
+Female,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Licensed professional,South Atlantic,5,3,5,5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Student,Arts/performer,South Atlantic,1.5,1,3.5,3
+Male,55 to 64,White,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,Middle Atlantic,4.5,4.5,4.5,4.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,West North Central,4.5,4.5,4.5,4.5
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Admin professional,,5,5,4.5,3.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,West South Central,5,4.5,4.5,4
+Male,65 to 74,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Other,South Atlantic,5,5,5,3
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,West South Central,4.5,3.5,5,5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Other,East South Central,5,4,4.5,4.5
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,4.5,5,5,3.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,South Atlantic,4.5,4,5,4.5
+Male,18 to 24,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,East North Central,4.5,4.5,4.5,5
+Female,25 to 34,Asian,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,2,2,2.5,2.5
+Male,35 to 44,Asian,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Technical/skilled trade,Pacific,5,5,3.5,5
+Male,18 to 24,White,Some HighSchool,HighSchool or less,$75K-$99K,Student,Not employed,East North Central,5,3.5,5,5
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3.5,5,5
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,5,3.5,5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,Pacific,5,3.5,5,5
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,East North Central,5,3.5,5,5
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,4.5,5,4.5,4.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Other,Middle Atlantic,5,5,5,3.5
+Male,25 to 34,Black,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,5,5,3.5
+Male,18 to 24,Black,Some college,Some college,$75K-$99K,Employed/Working FT,Sales/service,South Atlantic,5,3.5,5,5
+Female,18 to 24,White,Did not attend school,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,Pacific,2,2,3,2
+Male,45 to 54,Black,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,5,3.5,5,5
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Contract/freelance,,4,4.5,5,5
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Logistics/transportation,West North Central,4,5,5,4.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Contract/freelance,Mountain,5,4.5,4.5,4.5
+Male,35 to 44,Some other race,Some HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Other,Middle Atlantic,5,3.5,5,5
+Male,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Contract/freelance,West North Central,5,5,3.5,5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,East North Central,5,4.5,4.5,4.5
+Male,55 to 64,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Logistics/transportation,East South Central,5,3.5,5,5
+Female,75 or older,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Other,Mountain,5,5,5,3.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,South Atlantic,4.5,4.5,4.5,5
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,West North Central,1.5,2,2.5,3
+Male,45 to 54,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,5,4.5,4.5,4.5
+Female,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,New England,5,4.5,4.5,4.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Disabled/Unable to work,Not employed,Middle Atlantic,5,5,5,3.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$0-$24K,Retired,Not employed,Pacific,5,4.5,5,4
+Female,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,South Atlantic,5,5,3.5,5
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Other,East North Central,5,5,5,3.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,4.5,5,4
+Male,55 to 64,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,East South Central,5,4.5,4.5,4.5
+Male,25 to 34,White,Some college,Some college,$75K-$99K,Employed/Working FT,Other,Mountain,5,4,5,4.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,Pacific,3.5,5,5,5
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Student,Arts/performer,Mountain,2,3,2,2
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Disabled/Unable to work,Other,Middle Atlantic,5,5,5,3.5
+Female,35 to 44,Multiple races,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,Pacific,4.5,4.5,5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,Pacific,5,5,4.5,4
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,4.5,5,4
+Male,45 to 54,Multiple races,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,4.5,4,5,5
+Female,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,Middle Atlantic,5,5,5,3.5
+Male,25 to 34,Asian,Graduate degree,Post-graduate,$25K-$49K,Student,Owner/Exec/Mgmt,Pacific,5,3.5,5,5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working part-time,Owner/Exec/Mgmt,East North Central,4.5,5,5,4
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$150K and up,Student,Technical/skilled trade,Middle Atlantic,5,5,5,3.5
+Female,25 to 34,White,Some college,Some college,$75K-$99K,Not employed/Looking for work,Admin professional,Pacific,5,4,4.5,5
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,Middle Atlantic,2,1,3,3
+Female,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Other,East South Central,5,3.5,5,5
+Female,25 to 34,White,Some college,Some college,$0-$24K,Student,Sales/service,Mountain,5,5,5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Contract/freelance,Mountain,4.5,5,4,5
+Female,25 to 34,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,East South Central,5,3.5,5,5
+Female,25 to 34,Some other race,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Other,Middle Atlantic,4.5,4.5,5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Not employed,West North Central,5,4,5,4.5
+Female,45 to 54,Black,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,West South Central,5,5,5,3.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Other,East North Central,5,4.5,4.5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,South Atlantic,5,4.5,4.5,4.5
+Female,35 to 44,White,Some graduate school,Post-graduate,$50K-$74K,Disabled/Unable to work,Not employed,East North Central,5,5,5,3.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Not employed-NOT looking for work,Other,East North Central,1,0.5,1,1
+Female,45 to 54,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Other,South Atlantic,5,2.5,0.5,1
+Female,25 to 34,White,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,Pacific,4.5,5,5,4
+Female,65 to 74,Black,Some college,Some college,$0-$24K,Retired,Not employed,West South Central,5,4.5,4.5,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Owner/Exec/Mgmt,South Atlantic,4.5,4.5,5,4.5
+Male,75 or older,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Owner/Exec/Mgmt,Pacific,4.5,4,5,5
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,East South Central,5,4.5,4.5,5
+Male,35 to 44,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,4.5,5
+Male,45 to 54,Some other race,Some college,Some college,$100K-$149K,Employed/Working FT,Sales/service,,5,5,5,4
+Male,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,Middle Atlantic,5,5,4.5,4.5
+Male,18 to 24,White,Some college,Some college,$25K-$49K,Student,Other,West North Central,5,4.5,5,4.5
+Female,55 to 64,Black,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Admin professional,South Atlantic,4.5,5,5,4.5
+Male,35 to 44,American Indian or Alaskan Native,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,East South Central,4.5,3.5,1,0.5
+Female,55 to 64,White,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,Mountain,5,4.5,5,4.5
+Male,45 to 54,Multiple races,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,Mountain,4.5,4.5,5,5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,New England,5,4.5,5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Licensed professional,West North Central,5,4.5,4.5,5
+Male,45 to 54,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,East South Central,4.5,4.5,5,5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,5,4.5,4.5,5
+Male,25 to 34,White,Some college,Some college,$0-$24K,Student,Other,East North Central,5,5,4.5,4.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Other,South Atlantic,5,4.5,5,4.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Other,South Atlantic,5,4.5,4.5,5
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Logistics/transportation,West North Central,4.5,5,5,4.5
+Male,18 to 24,Black,Graduated from HighSchool,HighSchool or less,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,East North Central,4,0,4,1.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Licensed professional,South Atlantic,5,5,4.5,4.5
+Male,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Not employed,East North Central,5,5,4.5,4.5
+Female,45 to 54,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,South Atlantic,5,4.5,4.5,5
+Female,45 to 54,American Indian or Alaskan Native,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,5,5,5,4
+Female,45 to 54,White,Some HighSchool,HighSchool or less,$0-$24K,Retired,Not employed,Pacific,5,5,4,5
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,5,4.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,New England,5,4.5,4.5,5
+Female,25 to 34,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,4.5,5,5,4.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Other,East North Central,5,4.5,5,4.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working part-time,Other,East North Central,5,5,4.5,4.5
+Male,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Technical/skilled trade,West North Central,2.5,2.5,3.5,1
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,South Atlantic,4.5,5,5,4.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,5,4.5,4.5
+Female,65 to 74,Multiple races,Graduate degree,Post-graduate,$100K-$149K,Retired,Owner/Exec/Mgmt,New England,5,5,5,4
+Female,25 to 34,Some other race,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Sales/service,Pacific,4.5,5,5,4.5
+Female,25 to 34,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Other,West South Central,5,4.5,4.5,5
+Female,45 to 54,White,Graduate degree,Post-graduate,$0-$24K,Employed/Working FT,Licensed professional,Pacific,4.5,5,4.5,5
+Female,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Licensed professional,West North Central,5,4.5,5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,South Atlantic,5,4,5,5
+Male,35 to 44,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,West South Central,5,5,5,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,East South Central,5,5,5,4.5
+Male,25 to 34,Some other race,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Other,West South Central,3,1.5,5,0
+Other,55 to 64,Asian,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Contract/freelance,Pacific,5,5,5,4.5
+Other,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Pacific,4.5,5,5,5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Not employed,South Atlantic,5,4.5,5,5
+Male,45 to 54,Some other race,Some college,Some college,$0-$24K,Disabled/Unable to work,Other,Pacific,5,5,5,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,5,4.5,5
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Other,East South Central,5,4.5,5,5
+Male,45 to 54,Asian,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,5,5,4.5,5
+Male,45 to 54,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,5,5,5,4.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,South Atlantic,5,5,5,4.5
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Admin professional,Pacific,5,4.5,5,5
+Other,25 to 34,American Indian or Alaskan Native,Middle school,HighSchool or less,$50K-$74K,Not employed/Looking for work,Admin professional,West North Central,3.5,1.5,4,0.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,4.5,5,5
+Female,55 to 64,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Other,West South Central,5,5,5,4.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,4.5,5,5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Arts/performer,Pacific,4.5,5,5,5
+Female,25 to 34,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,South Atlantic,5,5,5,4.5
+Male,65 to 74,White,Some college,Some college,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,5,5
+Female,25 to 34,Some other race,Graduate degree,Post-graduate,$0-$24K,Employed/Working part-time,Licensed professional,West South Central,5,5,5,4.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,South Atlantic,5,5,5,4.5
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Student,Not employed,West South Central,5,4.5,5,5
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,South Atlantic,5,5,5,4.5
+Male,25 to 34,Some other race,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Contract/freelance,Pacific,1,2.5,4.5,1.5
+Male,45 to 54,Black,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,Middle Atlantic,5,5,5,4.5
+Male,45 to 54,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,5,4.5,5
+Male,45 to 54,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Owner/Exec/Mgmt,East North Central,5,5,4.5,5
+Female,45 to 54,White,Graduate degree,Post-graduate,$0-$24K,Not employed-NOT looking for work,Other,South Atlantic,5,5,5,4.5
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Employed/Working FT,Sales/service,Pacific,5,4.5,5,5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,4.5,5,5
+Female,45 to 54,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,New England,5,5,5,4.5
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,South Atlantic,5,5,5,5
+Male,18 to 24,Some other race,Graduate degree,Post-graduate,$0-$24K,Employed/Working FT,Other,,5,5,5,5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Other,West North Central,5,5,5,5
+Male,25 to 34,Some other race,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,West South Central,3,2.5,1.5,2.5
+Male,25 to 34,White,Some college,Some college,$75K-$99K,Disabled/Unable to work,Not employed,West North Central,5,5,5,5
+Male,25 to 34,White,Graduate degree,Post-graduate,$0-$24K,Student,Licensed professional,Middle Atlantic,5,5,5,5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,West South Central,5,5,5,5
+Male,55 to 64,White,Some college,Some college,$0-$24K,Retired,Not employed,South Atlantic,5,5,5,5
+Male,25 to 34,Asian,Graduate degree,Post-graduate,$0-$24K,Employed/Working part-time,Owner/Exec/Mgmt,East South Central,5,5,5,5
+Male,18 to 24,Asian,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,5,5,5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Not employed/Looking for work,Not employed,South Atlantic,5,5,5,5
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Technical/skilled trade,Mountain,5,5,5,5
+Male,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,5,5,5
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Arts/performer,Pacific,5,5,5,5
+Male,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Licensed professional,Mountain,2.5,2.5,4.5,0
+Male,25 to 34,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,,5,5,5,5
+Female,55 to 64,White,Some graduate school,Post-graduate,$75K-$99K,Retired,Not employed,South Atlantic,5,5,5,5
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,5,5,5,5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,Pacific,5,5,5,5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,South Atlantic,5,5,5,5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,New England,5,5,5,5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West North Central,5,5,5,5
+Female,25 to 34,Multiple races,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,Mountain,5,5,5,5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,West North Central,5,5,5,5
+Female,45 to 54,Black,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,5,5,5,5
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Logistics/transportation,Pacific,5,0,4.5,0
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,South Atlantic,5,5,5,5
+Female,75 or older,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working part-time,Owner/Exec/Mgmt,West North Central,5,5,5,5
+Female,35 to 44,White,Some graduate school,Post-graduate,$25K-$49K,Employed/Working FT,Licensed professional,Pacific,5,5,5,5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Owner/Exec/Mgmt,South Atlantic,5,5,5,5
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,5,5,5,5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,West South Central,5,5,5,5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,Pacific,5,5,5,5
+Male,45 to 54,White,Graduate degree,Post-graduate,$0-$24K,Not employed/Looking for work,Not employed,New England,5,5,5,5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,5,5,5,5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,South Atlantic,5,5,5,5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East North Central,2,1.5,0,0
+Male,18 to 24,Black,Some college,Some college,$0-$24K,Student,Not employed,West South Central,1.5,2.5,4.5,1
+Female,65 to 74,Black,Some college,Some college,$50K-$74K,Retired,Not employed,East North Central,5,5,5,5
+Female,45 to 54,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Other,Mountain,5,5,5,5
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Disabled/Unable to work,Owner/Exec/Mgmt,Pacific,5,5,5,5
+Female,55 to 64,White,Some graduate school,Post-graduate,$25K-$49K,Retired,Owner/Exec/Mgmt,South Atlantic,5,5,5,5
+Female,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,Mountain,4.5,3,2,0
+Male,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Other,Middle Atlantic,0,2.5,5,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Disabled/Unable to work,Not employed,South Atlantic,5,2,2.5,0
+Male,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Middle Atlantic,0,2,5,2.5
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Licensed professional,South Atlantic,3.5,0,5,1
+Female,35 to 44,Asian,Some college,Some college,$150K and up,Employed/Working FT,Not employed,South Atlantic,2.5,1.5,2,3.5
+Female,25 to 34,White,Some college,Some college,$50K-$74K,Not employed-NOT looking for work,Not employed,South Atlantic,1.5,3.5,4,0.5
+Female,25 to 34,American Indian or Alaskan Native,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Arts/performer,Pacific,3.5,1.5,3.5,1
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,Mountain,3,0,4.5,2
+Female,25 to 34,Some other race,Some college,Some college,$0-$24K,Not employed-NOT looking for work,Not employed,Pacific,2,0,0.5,1
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Student,Other,East North Central,3.5,1.5,3.5,1
+Female,45 to 54,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,West South Central,2.5,5,2,0
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Arts/performer,West North Central,1.5,1,4.5,2.5
+Male,18 to 24,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,Mountain,2.5,3,0.5,3.5
+Female,18 to 24,Black,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Sales/service,East South Central,4.5,2,1.5,1.5
+Other,18 to 24,White,Bachelor degree,Bachelor degree,$0-$24K,Not employed/Looking for work,Not employed,West North Central,3,1.5,2.5,2.5
+Female,25 to 34,Some other race,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Licensed professional,Pacific,2.5,2.5,2.5,2
+Female,25 to 34,Black,Some college,Some college,$0-$24K,Employed/Working part-time,Other,South Atlantic,2.5,3.5,1,2.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Other,West North Central,4,1.5,2,2
+Female,75 or older,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,East North Central,3,3.5,3,0
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East North Central,1,2,0.5,0.5
+Female,55 to 64,Multiple races,Graduate degree,Post-graduate,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,3,2.5,3,1
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,Pacific,3.5,4.5,1,1
+Male,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Technical/skilled trade,East South Central,2,1,3.5,3.5
+Male,35 to 44,Multiple races,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,1,3,2.5,3.5
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Other,Middle Atlantic,0.5,2.5,5,2
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Sales/service,Mountain,1.5,1,4.5,3
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,West South Central,3.5,3.5,2.5,0.5
+Male,55 to 64,White,Some college,Some college,$150K and up,Retired,Not employed,West North Central,4,2,3,1
+Male,35 to 44,Multiple races,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,3,3,2,2
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,East North Central,3.5,3.5,2,1
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,1.5,0,3,0
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,East North Central,4.5,1.5,3,1
+Female,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,South Atlantic,2,3,4,1
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Other,Pacific,3.5,1,5,0.5
+Male,35 to 44,Black,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Other,New England,1,4.5,2,2.5
+Female,18 to 24,Asian,Some college,Some college,$0-$24K,Student,Not employed,Middle Atlantic,2,4.5,2,1.5
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Student,Contract/freelance,West South Central,4.5,2,0.5,3
+Female,35 to 44,Black,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,3,2,3,2
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3.5,4,2.5,0
+Female,25 to 34,White,Some HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,East North Central,2.5,2.5,4,1
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,West South Central,2.5,2.5,5,0
+Female,35 to 44,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,East South Central,2,2.5,0,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Other,West North Central,3,3.5,2.5,1
+Male,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4,1.5,3.5,1
+Female,18 to 24,Multiple races,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Sales/service,Middle Atlantic,3.5,2.5,3.5,0.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Admin professional,Pacific,4.5,1,3.5,1
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Technical/skilled trade,West South Central,4,2.5,1.5,2
+Female,45 to 54,Black,Some college,Some college,$0-$24K,Employed/Working FT,Other,East North Central,4.5,2,2.5,1
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3,1.5,3.5,2
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East North Central,3.5,2.5,3,1
+Female,35 to 44,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East North Central,4.5,2.5,3,0
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Not employed-NOT looking for work,Not employed,Pacific,3,3.5,3,0.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,Middle Atlantic,1.5,0,2,1
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Arts/performer,East North Central,4,2,3,1
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,Pacific,1.5,2.5,3.5,2.5
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Not employed,Middle Atlantic,3,1.5,4,1.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Sales/service,Middle Atlantic,4.5,0,4,1.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,East North Central,1,3.5,4,1.5
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Not employed-NOT looking for work,Not employed,Mountain,3,2.5,1.5,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3,3.5,2.5,1
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Other,South Atlantic,3,3.5,2,1.5
+Male,55 to 64,White,Some college,Some college,$100K-$149K,Retired,Not employed,South Atlantic,4,3,3,0
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Not employed/Looking for work,Not employed,Middle Atlantic,3,1.5,3,3
+Male,25 to 34,Asian,Graduate degree,Post-graduate,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,0,0,0,0
+Male,35 to 44,American Indian or Alaskan Native,Bachelor degree,Bachelor degree,$25K-$49K,Student,Admin professional,Pacific,2.5,0,0,2.5
+Male,18 to 24,Multiple races,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Technical/skilled trade,East North Central,3,2.5,3,2
+Male,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,South Atlantic,4,3,2.5,1
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,Pacific,4.5,3,3,0
+Male,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,3,3,3,1.5
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,1,2.5,5,2
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,East South Central,5,2,3,0.5
+Male,65 to 74,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Retired,Not employed,East North Central,3,3,3,1.5
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Not employed/Looking for work,Technical/skilled trade,West South Central,3,1.5,4,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,East North Central,3,4,3,0.5
+Male,65 to 74,Some other race,Some college,Some college,$0-$24K,Retired,Not employed,Pacific,3,3,4.5,0
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Contract/freelance,Mountain,2.5,1,0.5,1
+Female,65 to 74,White,Some graduate school,Post-graduate,$150K and up,Retired,Not employed,South Atlantic,3.5,2,4.5,0.5
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Disabled/Unable to work,Owner/Exec/Mgmt,South Atlantic,5,1.5,1.5,2.5
+Female,35 to 44,Asian,Some college,Some college,$0-$24K,Employed/Working FT,Other,South Atlantic,2,1,5,2.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$25K-$49K,Not employed/Looking for work,Not employed,East South Central,4,2.5,4,0
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,West South Central,2.5,2,3.5,2.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Sales/service,Middle Atlantic,3,2.5,3,2
+Female,55 to 64,White,Some college,Some college,$0-$24K,Retired,Not employed,Mountain,3.5,2,5,0
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Contract/freelance,South Atlantic,4,3.5,2.5,0.5
+Female,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Licensed professional,Middle Atlantic,5,0,4.5,1
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Retired,Not employed,Middle Atlantic,2,1.5,3,4
+Female,35 to 44,Black,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,East North Central,2,0,1,2
+Female,35 to 44,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,Middle Atlantic,2,3,4.5,1
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,West South Central,2.5,2,3.5,2.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$75K-$99K,Not employed/Looking for work,Not employed,South Atlantic,4.5,3,1.5,1.5
+Female,25 to 34,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Not employed,South Atlantic,4,2,1.5,3
+Female,25 to 34,Black,Some HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,Middle Atlantic,4.5,0.5,3.5,2
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working part-time,Contract/freelance,New England,3.5,3.5,3,0.5
+Female,55 to 64,Black,Some college,Some college,$0-$24K,Employed/Working FT,Other,South Atlantic,5,3,1.5,1
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,West South Central,1.5,2,4.5,2.5
+Other,18 to 24,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,West North Central,3,3,3,1.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Other,East North Central,2,1,5,2.5
+Male,55 to 64,White,Some college,Some college,$100K-$149K,Employed/Working FT,Other,East North Central,2,1,2,0
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,East North Central,0.5,4.5,2.5,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,3,2,3.5,2
+Female,25 to 34,White,Graduate degree,Post-graduate,$0-$24K,Student,Other,Middle Atlantic,3,2.5,5,0
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,4.5,2.5,3.5,0
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,Middle Atlantic,0,2.5,5,3.5
+Male,35 to 44,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,West South Central,4,2,3,2
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Arts/performer,East South Central,5,1,3.5,1.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Other,East North Central,3,3.5,2,2.5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Licensed professional,South Atlantic,4.5,1,4.5,1
+Other,25 to 34,Native Hawaiian or other Pacific Islander,Bachelor degree,Bachelor degree,$50K-$74K,Not employed-NOT looking for work,Licensed professional,Middle Atlantic,2.5,3,2.5,3
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Not employed-NOT looking for work,Not employed,Pacific,2.5,2,0.5,0
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Licensed professional,,0,3.5,5,2.5
+Male,75 or older,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,South Atlantic,3,2,3,3
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Other,East North Central,5,1.5,4.5,0
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,New England,2.5,3.5,2,3
+Male,25 to 34,Asian,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Contract/freelance,South Atlantic,4,2,4,1
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,South Atlantic,3.5,3,3,1.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,Pacific,3,3,3,2
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,East North Central,4.5,1.5,3,2
+Other,45 to 54,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Arts/performer,Pacific,3.5,3,4.5,0
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Disabled/Unable to work,Not employed,East North Central,5,1.5,4.5,0
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,East North Central,3,0,1,1
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,Pacific,4,3,3,1
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,Middle Atlantic,2.5,3.5,3,2
+Female,35 to 44,White,Some college,Some college,$75K-$99K,Employed/Working FT,Logistics/transportation,West South Central,3.5,3.5,3.5,0.5
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Technical/skilled trade,Middle Atlantic,4.5,2,4,0.5
+Female,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,East North Central,5,1.5,4.5,0
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working part-time,Other,Pacific,4.5,2,3,1.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,East North Central,3,1.5,4.5,2
+Female,65 to 74,White,Some graduate school,Post-graduate,$25K-$49K,Retired,Other,Mountain,4,3,3.5,0.5
+Female,45 to 54,Some other race,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,,4.5,0,5,1.5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,South Atlantic,3,1,5,2
+Female,25 to 34,White,Some HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,South Atlantic,1,0,2,2
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,West South Central,5,3,2,1
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Logistics/transportation,Middle Atlantic,3.5,3,4.5,0
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,East South Central,3,1.5,3.5,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Not employed,Middle Atlantic,5,5,1,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Disabled/Unable to work,Not employed,South Atlantic,5,3,3,0
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Licensed professional,East North Central,2.5,3,5,0.5
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,Mountain,4.5,2.5,3.5,0.5
+Female,25 to 34,Black,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,South Atlantic,3,2.5,2.5,3
+Male,35 to 44,White,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,East South Central,3,2,3,3
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,Pacific,3.5,1.5,3,3
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,East South Central,1.5,1,1,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East North Central,3.5,2,2.5,3
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Licensed professional,New England,2,3.5,3.5,2
+Female,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Not employed,Mountain,3,4,2.5,1.5
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Admin professional,East North Central,2.5,3.5,3,2
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Not employed/Looking for work,Not employed,West South Central,3,2.5,3.5,2
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Student,Not employed,Mountain,3,2,3,3
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Sales/service,East South Central,4.5,2.5,3,1
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,Pacific,1.5,5,4.5,0
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,5,0.5,2,4
+Male,35 to 44,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,Mountain,3,1.5,4,3
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Mountain,1,1.5,2,1
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West North Central,2,2.5,2.5,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,2,1.5,5,3
+Male,35 to 44,Multiple races,Some college,Some college,$25K-$49K,Student,Not employed,West North Central,5,1.5,3,2
+Male,25 to 34,Black,Some HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,4.5,3,2.5,1.5
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,East North Central,5,1.5,2,3
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working part-time,Owner/Exec/Mgmt,Pacific,4,4,2,1.5
+Male,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Other,West North Central,3,2.5,3,3
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Other,West South Central,2,0,4.5,5
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$150K and up,Employed/Working FT,Logistics/transportation,West South Central,5,1,2.5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,3,1,4.5,3
+Male,45 to 54,Some other race,Some HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Other,New England,2.5,0.5,2.5,0
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,West North Central,4,2,4,1.5
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Not employed,Mountain,5,1,4.5,1
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,South Atlantic,3.5,2,3,3
+Male,75 or older,White,Some college,Some college,$50K-$74K,Retired,Not employed,Middle Atlantic,3,3.5,5,0
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,5,3,3,0.5
+Female,35 to 44,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Disabled/Unable to work,Not employed,South Atlantic,2.5,2.5,4,2.5
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Not employed,West South Central,3.5,3,3.5,1.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,East North Central,4,3,2.5,2
+Female,25 to 34,White,Some college,Some college,$50K-$74K,Not employed-NOT looking for work,Other,West North Central,3.5,2.5,3.5,2
+Female,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,4.5,2.5,2.5,2
+Female,18 to 24,Black,Elementary,HighSchool or less,$75K-$99K,Student,Owner/Exec/Mgmt,New England,0,0,0,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,Mountain,2,2.5,1,0
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Disabled/Unable to work,Not employed,South Atlantic,4.5,2.5,4.5,0
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,Middle Atlantic,3,2.5,4.5,1.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,Mountain,4.5,1,3.5,2.5
+Female,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,East North Central,3,3.5,4,1
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,3,2,3,3.5
+Male,55 to 64,White,Some college,Some college,$50K-$74K,Retired,Not employed,South Atlantic,4,2.5,2.5,2.5
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$50K-$74K,Student,Not employed,Pacific,5,3,3.5,0
+Female,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Other,West North Central,3,3.5,3,2
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Admin professional,South Atlantic,4.5,1.5,3,2.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,Mountain,3.5,3,3,2
+Female,25 to 34,Black,Some HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,2.5,0,1.5,1.5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,East South Central,3,3,3,2.5
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Not employed,East North Central,5,3.5,3,0
+Female,45 to 54,Some other race,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Owner/Exec/Mgmt,Pacific,5,3,1,2.5
+Male,55 to 64,White,Some graduate school,Post-graduate,$0-$24K,Disabled/Unable to work,Not employed,New England,5,1,5,0.5
+Female,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,,2.5,3,3.5,2.5
+Female,18 to 24,Asian,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,Pacific,3,1.5,4,3
+Male,18 to 24,Asian,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,Pacific,2.5,4.5,1.5,3
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,East South Central,3,3,4,1.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,Middle Atlantic,3,2.5,3,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,Pacific,3.5,4.5,2.5,1
+Female,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,New England,2,1.5,1.5,0.5
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,East North Central,3.5,3,3,2
+Female,45 to 54,Black,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,East South Central,3.5,3,2.5,2.5
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$150K and up,Not employed-NOT looking for work,Not employed,West South Central,4.5,3,3,1
+Male,45 to 54,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Other,Pacific,4,3,4,0.5
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Student,Not employed,New England,5,0,5,1.5
+Male,25 to 34,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,Pacific,2,2.5,3,4.5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,New England,3,3.5,2,3.5
+Male,18 to 24,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,West South Central,3,4.5,4,0.5
+Other,55 to 64,Multiple races,Did not attend school,HighSchool or less,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,New England,3.5,2.5,4,2
+Male,25 to 34,White,Some college,Some college,$0-$24K,Student,Not employed,South Atlantic,2,1,4,5
+Other,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Other,West North Central,0.5,2.5,3,0
+Male,18 to 24,White,Some college,Some college,$150K and up,Student,Not employed,New England,3,3,3,3
+Female,55 to 64,Black,Elementary,HighSchool or less,$50K-$74K,Not employed-NOT looking for work,Admin professional,,2.5,4,2,3.5
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Sales/service,West North Central,1,5,4,2
+Male,25 to 34,White,Some college,Some college,$0-$24K,Not employed-NOT looking for work,Not employed,West North Central,4.5,2.5,2,3
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,East South Central,3,2.5,4,2.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,West North Central,4,2,3.5,2.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,New England,4,4,2,2
+Male,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Not employed,Middle Atlantic,4,3,4,1
+Female,45 to 54,Black,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,West South Central,4.5,3.5,4,0
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Contract/freelance,Middle Atlantic,5,0.5,4,2.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Sales/service,West North Central,0.5,0,3,2.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Other,East North Central,2.5,3.5,4.5,1.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,West South Central,4,4.5,3.5,0
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$75K-$99K,Not employed-NOT looking for work,Arts/performer,West South Central,4.5,0.5,3.5,3.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,1,5,1
+Female,35 to 44,Some other race,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Pacific,5,2.5,3.5,1
+Male,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,Pacific,4,2.5,4,1.5
+Female,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,West North Central,2,3,3,4
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Technical/skilled trade,East North Central,2.5,3,5,1.5
+Female,45 to 54,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,East South Central,4.5,2,5,0.5
+Female,25 to 34,Black,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,Middle Atlantic,3.5,3.5,3,2
+Male,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,1,1,2.5,1.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,Pacific,3,1.5,4.5,3
+Female,35 to 44,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,West South Central,2.5,4.5,5,0
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,South Atlantic,4.5,3.5,2,2
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,4,4.5,2.5,1
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3,3,5,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,New England,5,0.5,4.5,2
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,4.5,2,3,2.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,South Atlantic,2,5,3,2
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Other,Middle Atlantic,4.5,2,5,0.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Not employed,South Atlantic,5,2.5,4.5,0
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,1,2.5,0,2.5
+Female,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,Pacific,2,4.5,4.5,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,Pacific,3,2.5,3.5,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3.5,1,2.5,5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East North Central,4,3.5,3.5,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Other,East North Central,4,2,4,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,East South Central,5,2,5,0
+Male,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Logistics/transportation,South Atlantic,4.5,1.5,5,1.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Contract/freelance,South Atlantic,4.5,1,4.5,2.5
+Male,25 to 34,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,East North Central,2.5,3.5,5,1.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,East North Central,5,2.5,3.5,1.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Retired,Not employed,Pacific,4.5,1,0.5,0
+Male,45 to 54,White,Some graduate school,Post-graduate,$25K-$49K,Employed/Working FT,Licensed professional,Pacific,3,3,4,2.5
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,Pacific,4.5,0.5,4.5,3
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Mountain,3,1.5,4,4
+Male,35 to 44,American Indian or Alaskan Native,Some college,Some college,$0-$24K,Employed/Working part-time,Contract/freelance,Mountain,3.5,4.5,3,1.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,East North Central,4,2.5,4.5,1.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,2.5,3,2
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$0-$24K,Retired,Contract/freelance,Pacific,3.5,2.5,4,2.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,West North Central,3,2.5,3,4
+Male,45 to 54,Some other race,Some college,Some college,$50K-$74K,Not employed/Looking for work,Sales/service,South Atlantic,3,0.5,5,4
+Female,45 to 54,Black,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,West South Central,5,3.5,3,1
+Female,35 to 44,Black,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,South Atlantic,3,0.5,1,1.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,5,3,3,1.5
+Male,45 to 54,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,New England,4.5,3,2,3
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Other,East North Central,4.5,3,3,2
+Female,55 to 64,White,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,New England,4.5,3.5,2,2.5
+Male,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Other,East South Central,5,2.5,4.5,0.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Technical/skilled trade,East South Central,3,3.5,4,2
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,East North Central,2.5,2,3.5,4.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Admin professional,South Atlantic,4.5,3.5,2.5,2
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$0-$24K,Not employed-NOT looking for work,Not employed,Pacific,4.5,2,3.5,2.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,Pacific,3,3,4.5,2
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Not employed-NOT looking for work,Not employed,Middle Atlantic,2,2,2,0
+Female,55 to 64,White,Some college,Some college,$100K-$149K,Not employed-NOT looking for work,Not employed,West South Central,3.5,3,4.5,1.5
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Retired,Not employed,Middle Atlantic,4.5,3.5,3.5,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,South Atlantic,4.5,3,2.5,2.5
+Female,25 to 34,Black,Some college,Some college,$0-$24K,Employed/Working FT,Other,East North Central,4.5,2.5,3,2.5
+Female,55 to 64,Black,Some college,Some college,$150K and up,Employed/Working part-time,Other,New England,4,4,2,2.5
+Female,65 to 74,White,Some graduate school,Post-graduate,$25K-$49K,Retired,Not employed,South Atlantic,5,4.5,3,0
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Admin professional,Middle Atlantic,4.5,3,5,0
+Female,25 to 34,Black,Some HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,3.5,3,4,2
+Female,25 to 34,White,Graduate degree,Post-graduate,$0-$24K,Employed/Working part-time,Sales/service,South Atlantic,5,2.5,2,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East North Central,3,5,3,1.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Arts/performer,Pacific,0,0,0,0.5
+Male,18 to 24,Multiple races,Some HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,East South Central,2.5,1.5,1,1
+Female,25 to 34,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,Mountain,5,0.5,4.5,2.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,0,4.5,3
+Male,35 to 44,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,South Atlantic,4.5,3,3.5,1.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,Pacific,3.5,3.5,4.5,1
+Female,45 to 54,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Licensed professional,New England,3.5,3.5,3.5,2
+Female,65 to 74,White,Some college,Some college,$0-$24K,Retired,Other,East North Central,4.5,3,5,0
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Owner/Exec/Mgmt,Pacific,5,2.5,2,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Other,West South Central,5,0,5,2.5
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,Mountain,4.5,3,1,4
+Female,25 to 34,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,4.5,3,3,2
+Female,35 to 44,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,East North Central,2.5,2,1,0.5
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Other,Pacific,3,3,3,3.5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,,4.5,2,3.5,2.5
+Female,18 to 24,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Licensed professional,West North Central,4.5,2,3,3
+Female,25 to 34,Some other race,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,Pacific,4.5,0.5,4.5,3
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Other,South Atlantic,0,2.5,5,5
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,4.5,0,5,3.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Student,Not employed,New England,4.5,4,3.5,1
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,West South Central,5,0.5,4.5,3
+Male,25 to 34,Black,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,4,1.5,4.5,3
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,East South Central,4,2,4.5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Sales/service,Middle Atlantic,1.5,1,1.5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,West North Central,2.5,3,4.5,3
+Male,35 to 44,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,West South Central,3,2.5,3.5,4
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Student,Admin professional,West South Central,4.5,3,5,0.5
+Male,25 to 34,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Other,East North Central,4,0.5,4,4.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,East South Central,4.5,1.5,4.5,2.5
+Male,25 to 34,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,East South Central,3.5,1,4,4.5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Not employed/Looking for work,Other,Mountain,3.5,1.5,3.5,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,Mountain,4.5,3.5,3,2
+Male,18 to 24,White,Some college,Some college,$75K-$99K,Student,Not employed,Middle Atlantic,4.5,1,5,2.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,Middle Atlantic,1,5,4.5,2.5
+Male,35 to 44,White,Elementary,HighSchool or less,$100K-$149K,Not employed-NOT looking for work,Contract/freelance,West North Central,1,3,1.5,1
+Female,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Other,Pacific,4,2.5,5,1.5
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Contract/freelance,Pacific,4.5,3.5,3,2
+Male,65 to 74,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Not employed,West South Central,3,2.5,4.5,3
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,2,4,4,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,Middle Atlantic,3.5,4,4.5,1
+Male,45 to 54,Some other race,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,3.5,3.5,3.5,2.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Admin professional,New England,4,3.5,4.5,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,Middle Atlantic,4,3,3,3
+Female,25 to 34,White,Some HighSchool,HighSchool or less,$25K-$49K,Student,Not employed,Middle Atlantic,5,0.5,2.5,5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Sales/service,West South Central,4,2,5,2
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,West South Central,1,0,2,3.5
+Male,65 to 74,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3,3,4,3
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,West North Central,5,4,3.5,0.5
+Female,18 to 24,Some other race,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Arts/performer,West North Central,4.5,2.5,4,2
+Female,18 to 24,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Other,Middle Atlantic,4.5,1,4.5,3
+Female,35 to 44,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,East South Central,4.5,3,4,1.5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,South Atlantic,2,5,4.5,1.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,New England,4.5,3.5,5,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Not employed-NOT looking for work,Not employed,East South Central,3.5,4.5,3.5,1.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Sales/service,South Atlantic,3,3,3.5,3.5
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,West North Central,4,3,4,2
+Female,25 to 34,Some other race,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,0.5,2.5,0
+Female,25 to 34,Black,Some college,Some college,$0-$24K,Not employed/Looking for work,Other,East South Central,4.5,3.5,3,2
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Licensed professional,South Atlantic,4.5,3,3.5,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Disabled/Unable to work,Not employed,South Atlantic,5,3,4.5,0.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,Mountain,1.5,4,5,2.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3,4.5,3,2.5
+Female,25 to 34,White,Some college,Some college,$50K-$74K,Disabled/Unable to work,Not employed,East North Central,3.5,3.5,3.5,2.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,Middle Atlantic,2,3,5,3
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Not employed/Looking for work,Not employed,East North Central,5,2.5,5,0.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,East South Central,4.5,2,3.5,3
+Male,75 or older,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,South Atlantic,4.5,3,4.5,1
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Logistics/transportation,East South Central,2.5,2,2,0
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,3,2,3,5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Technical/skilled trade,East North Central,5,2,5,1
+Female,35 to 44,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,3.5,3.5,4.5,1.5
+Female,55 to 64,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,2,4.5,4.5,2
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East North Central,4.5,4,3.5,1
+Female,18 to 24,Multiple races,Graduated from HighSchool,HighSchool or less,$50K-$74K,Student,Not employed,Middle Atlantic,5,2.5,3.5,2
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,West North Central,5,3,4,1
+Female,18 to 24,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,East South Central,4.5,3.5,3,2
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Owner/Exec/Mgmt,Pacific,3.5,4,5,0.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,Middle Atlantic,5,2,3,3
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,2,1.5,2,1
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Student,Not employed,New England,5,1,4,3
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,East North Central,3.5,1.5,4.5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Disabled/Unable to work,Not employed,New England,4.5,4.5,3.5,0.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,Middle Atlantic,4.5,3.5,3,2
+Female,18 to 24,American Indian or Alaskan Native,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,West North Central,3.5,3.5,3,3
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Retired,Licensed professional,Mountain,4.5,4.5,3,1
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working part-time,Admin professional,Pacific,3,4.5,3.5,2
+Male,35 to 44,Black,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Technical/skilled trade,Middle Atlantic,3.5,3.5,4.5,1.5
+Female,35 to 44,White,Some college,Some college,$50K-$74K,Student,Sales/service,Middle Atlantic,5,4.5,2,1.5
+Female,55 to 64,Black,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,East South Central,5,3,5,0
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,West South Central,2,2,0,2.5
+Female,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,2.5,3,4,3.5
+Male,25 to 34,Multiple races,Some college,Some college,$0-$24K,Not employed/Looking for work,Owner/Exec/Mgmt,West North Central,2.5,3.5,5,2.5
+Male,35 to 44,Multiple races,Graduated from HighSchool,HighSchool or less,$75K-$99K,Not employed-NOT looking for work,Not employed,Pacific,4.5,2.5,4.5,2
+Male,25 to 34,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,Pacific,5,1.5,4.5,2.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,West North Central,5,3.5,1.5,3.5
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Logistics/transportation,Mountain,3.5,2,5,3
+Male,25 to 34,Some other race,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,Pacific,4.5,2,4.5,2.5
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Other,South Atlantic,5,3,2.5,3
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Other,Mountain,5,4,3.5,1
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Technical/skilled trade,West South Central,4.5,2,3.5,3.5
+Male,45 to 54,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Other,East North Central,3,1,2,1
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,East South Central,4.5,2,3,4
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Disabled/Unable to work,Logistics/transportation,South Atlantic,4.5,2.5,5,1.5
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Retired,Not employed,East North Central,5,4.5,4,0
+Male,25 to 34,Asian,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,5,2.5,3,3
+Male,25 to 34,Some other race,Some college,Some college,$0-$24K,Employed/Working part-time,Contract/freelance,East North Central,4.5,3.5,4.5,1
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,4,3,2,4.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Other,New England,5,3.5,4.5,0.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Other,South Atlantic,4.5,1.5,4.5,3
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Other,West South Central,4,4.5,5,0
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Retired,Not employed,Mountain,1.5,5,4.5,2.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,West North Central,0,0,1,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,East South Central,2.5,2,1.5,1
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Other,Pacific,3,4.5,5,1
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,West North Central,2.5,3,4,4
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,South Atlantic,5,3.5,5,0
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Admin professional,Middle Atlantic,3,1.5,5,4
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working FT,Logistics/transportation,East North Central,4.5,3.5,4,1.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3.5,4.5,3,2.5
+Female,18 to 24,Some other race,Some graduate school,Post-graduate,$25K-$49K,Student,Not employed,East North Central,4,5,2.5,2
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,East North Central,3.5,4,4,2
+Male,65 to 74,Black,Some college,Some college,$25K-$49K,Retired,Not employed,East North Central,5,3,3.5,2
+Female,25 to 34,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,3,3,3,4.5
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,East North Central,3,1,0,3
+Female,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Not employed/Looking for work,Not employed,South Atlantic,4.5,4.5,2.5,2
+Male,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,3,3,4.5,3
+Female,55 to 64,White,Some graduate school,Post-graduate,$25K-$49K,Employed/Working FT,Licensed professional,South Atlantic,4,3,3.5,3
+Female,25 to 34,White,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,East North Central,4.5,2.5,4.5,2
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,West North Central,5,3.5,4.5,0.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,1.5,4.5,4
+Female,55 to 64,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Other,South Atlantic,5,1.5,5,2
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,Middle Atlantic,4.5,4.5,3,1.5
+Male,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,4,1.5,4.5,3.5
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Disabled/Unable to work,Admin professional,Pacific,4.5,3.5,5,0.5
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working FT,Sales/service,West North Central,3,0.5,3.5,0
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Mountain,3.5,4.5,3,2.5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,South Atlantic,3,3.5,4,3
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Not employed,South Atlantic,4.5,3.5,3,2.5
+Female,35 to 44,Some other race,Some graduate school,Post-graduate,$25K-$49K,Disabled/Unable to work,Not employed,Pacific,5,3.5,1.5,3.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Not employed/Looking for work,Not employed,Middle Atlantic,4.5,3.5,4,1.5
+Female,35 to 44,White,Some college,Some college,$150K and up,Employed/Working FT,Admin professional,South Atlantic,4,4,4,1.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,New England,2.5,3.5,5,2.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Other,Middle Atlantic,3.5,5,5,0
+Female,45 to 54,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East South Central,3.5,2.5,2.5,5
+Female,45 to 54,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working part-time,Licensed professional,South Atlantic,3,4,5,1.5
+Male,18 to 24,White,Some HighSchool,HighSchool or less,$0-$24K,Student,Not employed,Pacific,3,2,0,2
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Admin professional,Middle Atlantic,5,5,3,0.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,4,3,4.5,2
+Male,65 to 74,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4,5,4,0.5
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,4.5,3.5,2,3.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,West South Central,5,1,5,2.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3.5,4.5,2,3.5
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,Pacific,5,3,4.5,1
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,East North Central,5,3.5,4,1
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Disabled/Unable to work,Not employed,Mountain,5,2.5,3,3
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Other,Pacific,4.5,2.5,5,1.5
+Male,25 to 34,White,Some HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,2,3,1,1.5
+Female,25 to 34,White,Did not attend school,HighSchool or less,$25K-$49K,Employed/Working part-time,Contract/freelance,East North Central,5,3.5,3,2
+Female,18 to 24,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Other,Pacific,3.5,4.5,3,2.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,Pacific,4,4.5,5,0
+Male,18 to 24,White,Some college,Some college,$150K and up,Student,Sales/service,Mountain,3,2.5,4.5,3.5
+Male,45 to 54,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Mountain,3.5,2,5,3
+Female,35 to 44,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Admin professional,Mountain,4.5,2,5,2
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Other,East North Central,4.5,3,4,2
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,South Atlantic,5,3,1,4.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,South Atlantic,4.5,0,4.5,4.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Sales/service,West South Central,5,3,2.5,3
+Male,75 or older,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Licensed professional,East North Central,2.5,2.5,2.5,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$150K and up,Not employed-NOT looking for work,Not employed,East South Central,4.5,2.5,5,1.5
+Female,65 to 74,White,Some graduate school,Post-graduate,$150K and up,Retired,Not employed,West South Central,4.5,3,5,1
+Female,25 to 34,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Sales/service,East South Central,3,3.5,4.5,2.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Owner/Exec/Mgmt,South Atlantic,4,3,2.5,4
+Male,65 to 74,Multiple races,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,West North Central,3.5,3,3.5,3.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Sales/service,West South Central,3.5,3.5,5,2
+Male,35 to 44,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,West South Central,4.5,2,3,4.5
+Male,25 to 34,Some other race,Some college,Some college,$0-$24K,Not employed/Looking for work,Technical/skilled trade,Mountain,3.5,2,4.5,4
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,2.5,2,5,4.5
+Male,18 to 24,White,Some college,Some college,$50K-$74K,Student,Not employed,East North Central,3.5,4.5,4,2
+Female,45 to 54,American Indian or Alaskan Native,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Licensed professional,Pacific,4.5,1,1.5,0.5
+Female,35 to 44,Multiple races,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Technical/skilled trade,Pacific,4.5,3.5,3,3
+Male,18 to 24,Black,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working part-time,Technical/skilled trade,South Atlantic,3.5,3,4.5,3
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,5,3,3,3
+Other,18 to 24,Multiple races,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,,5,4,3,2
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Technical/skilled trade,South Atlantic,4.5,3,3.5,3
+Male,35 to 44,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,Pacific,4.5,1.5,4,4
+Male,35 to 44,White,Did not attend school,HighSchool or less,$0-$24K,Employed/Working FT,Other,Pacific,5,5,3,1
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Sales/service,East South Central,4.5,3.5,4.5,1.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,5,3,2,4
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Retired,Other,Pacific,4.5,2.5,4,3
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Disabled/Unable to work,Not employed,West North Central,1,1.5,4.5,0.5
+Male,65 to 74,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Retired,Other,East North Central,4.5,2,4.5,3
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,Pacific,3,3.5,3.5,4
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,,4.5,2.5,5,2
+Male,45 to 54,White,Some college,Some college,$150K and up,Employed/Working FT,Licensed professional,Pacific,2.5,3.5,5,3
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Technical/skilled trade,South Atlantic,5,2,4,3
+Male,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working part-time,Contract/freelance,West South Central,2.5,4.5,3.5,3.5
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Student,Other,East North Central,3,5,5,1
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,4.5,3,4.5,2
+Male,25 to 34,White,Graduate degree,Post-graduate,$0-$24K,Student,Other,Middle Atlantic,2,4.5,4.5,3
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Employed/Working part-time,Admin professional,Pacific,5,3.5,3.5,2
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,New England,2,1.5,2,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Not employed/Looking for work,Not employed,Pacific,5,3.5,4.5,1
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,Mountain,4.5,5,4.5,0
+Female,25 to 34,Black,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Sales/service,South Atlantic,5,2,5,2
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Student,Not employed,East North Central,5,3,3,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Licensed professional,Pacific,3.5,3.5,3.5,3.5
+Male,75 or older,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Admin professional,South Atlantic,3,3.5,3.5,4
+Female,18 to 24,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Sales/service,South Atlantic,5,2,3.5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Not employed,West South Central,5,2.5,3.5,3
+Male,55 to 64,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Owner/Exec/Mgmt,South Atlantic,4.5,2.5,5,2
+Female,55 to 64,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working part-time,Admin professional,South Atlantic,5,4.5,4.5,0
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,2,1,3,1.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Other,Pacific,4.5,2.5,5,2
+Female,25 to 34,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,West North Central,5,0.5,4,4.5
+Female,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,New England,1.5,5,5,2.5
+Female,45 to 54,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Other,Middle Atlantic,5,5,3.5,0.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,East South Central,5,3,3,3
+Other,25 to 34,White,Some graduate school,Post-graduate,$0-$24K,Student,Not employed,South Atlantic,4,3,5,2
+Male,55 to 64,Some other race,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,West South Central,5,1,5,3
+Female,45 to 54,White,Some college,Some college,$50K-$74K,Not employed-NOT looking for work,Not employed,West South Central,3,5,5,1
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3,4.5,4.5,2
+Male,45 to 54,Asian,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,Pacific,4.5,3.5,2,4
+Male,45 to 54,Black,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,0,1,0,0
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,West South Central,1.5,2,2,2
+Female,45 to 54,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3,3.5,4.5,3
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,New England,5,3.5,3,2.5
+Female,45 to 54,White,Some college,Some college,$150K and up,Disabled/Unable to work,Not employed,West South Central,4.5,4,4.5,1
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,East North Central,4.5,3.5,4,2
+Female,45 to 54,Native Hawaiian or other Pacific Islander,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Technical/skilled trade,Pacific,5,3.5,4,1.5
+Female,55 to 64,Multiple races,Some college,Some college,$75K-$99K,Retired,Not employed,Pacific,5,4,5,0
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Disabled/Unable to work,Not employed,West South Central,1,5,5,3
+Female,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Not employed,South Atlantic,4.5,3,4,2.5
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,East North Central,5,5,3.5,0.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,West North Central,5,2.5,4.5,2
+Female,18 to 24,Asian,Some graduate school,Post-graduate,$0-$24K,Student,Not employed,Pacific,3.5,1,2,1
+Female,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Mountain,4.5,3.5,1.5,4.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,2.5,5,3
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,West North Central,3.5,3.5,4,3
+Female,35 to 44,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,South Atlantic,4,3,4,3
+Male,35 to 44,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3,2,4.5,4.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,East North Central,3.5,2,5,3.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,South Atlantic,3.5,4.5,4.5,1.5
+Male,55 to 64,White,Some college,Some college,$0-$24K,Retired,Other,South Atlantic,5,2.5,4.5,2
+Female,25 to 34,Black,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Technical/skilled trade,East South Central,5,5,2,2
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working part-time,Technical/skilled trade,Pacific,4.5,2.5,5,2
+Male,35 to 44,White,Some HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,East North Central,1.5,3,3,0.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,4,2.5,5,2.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,South Atlantic,3.5,3.5,4.5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,West North Central,3.5,4.5,2.5,4
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,4.5,3,4,3
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,4.5,3.5,3.5,3
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,West North Central,4.5,1.5,4.5,4
+Female,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,East North Central,3,3,4.5,4
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,East North Central,3,3,4,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,South Atlantic,3.5,2,5,4
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,5,2.5,3,4
+Male,35 to 44,Multiple races,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Pacific,2.5,2,1.5,2
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Sales/service,East North Central,3,4.5,5,2
+Male,25 to 34,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3.5,4.5,1.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,Middle Atlantic,5,3,3.5,3
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Admin professional,West South Central,4,3,4.5,3
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Owner/Exec/Mgmt,South Atlantic,4.5,2.5,3.5,4
+Male,25 to 34,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Other,South Atlantic,4.5,2.5,5,2.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,East South Central,3,3.5,4.5,3.5
+Male,18 to 24,White,Some college,Some college,$50K-$74K,Student,Not employed,East South Central,4,1.5,5,4
+Female,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Not employed,New England,5,4.5,4,1
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,3,4.5,2.5
+Male,18 to 24,White,Some college,Some college,$100K-$149K,Student,Logistics/transportation,South Atlantic,2,3.5,1,1.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,East North Central,4.5,4,4.5,1.5
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,East North Central,5,1.5,5,3
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,South Atlantic,5,5,4.5,0
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,West North Central,4.5,2.5,5,2.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,Middle Atlantic,4.5,4,4,2
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,3.5,4,2
+Female,45 to 54,White,Some HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Sales/service,East South Central,4.5,2.5,4.5,3
+Female,18 to 24,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Not employed,East South Central,4,2.5,3.5,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,New England,4,3,4.5,3
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,South Atlantic,3.5,3.5,5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,2,2,2,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,West North Central,4.5,4,5,1
+Female,55 to 64,White,Some college,Some college,$100K-$149K,Retired,Not employed,Middle Atlantic,5,3,4.5,2
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,West South Central,4.5,4.5,4.5,1
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,5,3,5,1.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,West North Central,4,4.5,3.5,2.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$0-$24K,Not employed/Looking for work,Admin professional,New England,3.5,5,4,2
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,Middle Atlantic,5,3,4.5,2
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,East South Central,5,3,5,1.5
+Female,65 to 74,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,5,3.5,4,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,Pacific,4.5,4.5,3,2.5
+Male,45 to 54,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Pacific,3,1.5,3,0.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Other,Pacific,5,3.5,4.5,1.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,South Atlantic,3,2.5,4,5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,West South Central,5,5,4.5,0
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Admin professional,Middle Atlantic,5,2,3,4.5
+Female,75 or older,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Not employed,East North Central,5,5,4.5,0
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Employed/Working FT,Admin professional,East North Central,3,4.5,5,2
+Female,65 to 74,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working part-time,Arts/performer,Middle Atlantic,5,5,3,1.5
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Mountain,5,4.5,3.5,1.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working part-time,Arts/performer,East North Central,5,3.5,5,1
+Female,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,West South Central,5,2,5,2.5
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Employed/Working FT,Logistics/transportation,Pacific,3.5,1.5,2.5,0.5
+Female,65 to 74,Black,Some college,Some college,$25K-$49K,Retired,Not employed,South Atlantic,5,3.5,5,1
+Male,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Mountain,4.5,2.5,4.5,3
+Female,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,West South Central,4.5,3.5,5,1.5
+Female,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working FT,Other,East South Central,4,3.5,4.5,2.5
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,3.5,4.5,3.5,3
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,East North Central,2.5,2,5,5
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,West South Central,4,3.5,5,2
+Female,25 to 34,Native Hawaiian or other Pacific Islander,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Owner/Exec/Mgmt,Pacific,5,0.5,4,5
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Other,Pacific,3.5,5,2.5,3.5
+Female,55 to 64,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,5,3.5,3,3
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,Pacific,2,2,2,2
+Female,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Licensed professional,Middle Atlantic,2.5,5,5,2
+Female,45 to 54,Asian,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Other,Pacific,3.5,5,4.5,1.5
+Female,25 to 34,White,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,East North Central,3.5,5,3,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working part-time,Licensed professional,Middle Atlantic,5,3,4.5,2
+Female,45 to 54,White,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,Pacific,3.5,5,4.5,1.5
+Female,75 or older,White,Some college,Some college,$50K-$74K,Retired,Not employed,Mountain,5,4.5,5,0
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Other,East South Central,5,2,3,4.5
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Technical/skilled trade,East North Central,4.5,2.5,4.5,3
+Female,55 to 64,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,2,4.5,5,3
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Admin professional,South Atlantic,5,4,4.5,1
+Male,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Not employed,Middle Atlantic,3,2,3,0
+Female,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Other,East South Central,5,3.5,5,1
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,4.5,1,4,5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Not employed-NOT looking for work,Other,South Atlantic,4.5,3.5,4,2.5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,East North Central,5,3.5,4.5,1.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,New England,2.5,5,5,2.5
+Male,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,2,4.5,3.5
+Male,25 to 34,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,Pacific,3.5,4,5,2.5
+Male,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,East South Central,4.5,3,4.5,3
+Male,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Licensed professional,East North Central,5,3.5,3,3.5
+Male,25 to 34,American Indian or Alaskan Native,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,Middle Atlantic,4.5,3,4.5,3
+Male,25 to 34,Some other race,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Other,Pacific,0,1,0,0.5
+Female,75 or older,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Owner/Exec/Mgmt,Mountain,1.5,2.5,3,1
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,South Atlantic,4.5,3.5,4,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Contract/freelance,Middle Atlantic,5,3.5,3.5,3
+Male,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Admin professional,New England,3.5,1.5,5,5
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Technical/skilled trade,Middle Atlantic,4,3.5,5,2.5
+Male,35 to 44,Some other race,Bachelor degree,Bachelor degree,$75K-$99K,Not employed-NOT looking for work,Other,South Atlantic,5,4.5,4.5,1
+Male,55 to 64,White,Some graduate school,Post-graduate,$25K-$49K,Retired,Not employed,South Atlantic,4,4.5,4.5,2
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working part-time,Licensed professional,East North Central,3.5,4,3,4.5
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Logistics/transportation,Mountain,4.5,3,5,2.5
+Male,45 to 54,Black,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,West South Central,4.5,3,3.5,4
+Male,55 to 64,White,Some graduate school,Post-graduate,$75K-$99K,Retired,Not employed,South Atlantic,5,1,4,5
+Male,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,South Atlantic,3,2,3,0
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,East North Central,5,3,5,2
+Male,45 to 54,Multiple races,Some graduate school,Post-graduate,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,4.5,4.5,3.5,2.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Other,Pacific,5,1,5,4
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$150K and up,Retired,Not employed,Pacific,5,5,5,0
+Female,45 to 54,Black,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,South Atlantic,5,4.5,1,4.5
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,West South Central,4.5,2.5,5,3
+Male,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,4,3,5,3
+Male,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Other,South Atlantic,4.5,4.5,5,1
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,West South Central,3,3.5,4.5,4
+Female,45 to 54,White,Some college,Some college,$75K-$99K,Employed/Working FT,Sales/service,East South Central,3,3.5,5,3.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,,2,2,2,2
+Female,45 to 54,Some other race,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,West North Central,5,3,3.5,3.5
+Female,45 to 54,Black,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,East South Central,5,3,5,2
+Female,65 to 74,White,Some graduate school,Post-graduate,$150K and up,Retired,Not employed,Pacific,4.5,3,4.5,3
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Admin professional,Pacific,4.5,4.5,4,2
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,South Atlantic,5,3.5,3.5,3
+Female,45 to 54,White,Graduate degree,Post-graduate,$0-$24K,Employed/Working part-time,Other,East North Central,4.5,4.5,4.5,1.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Contract/freelance,West North Central,5,4.5,3,2.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,West South Central,4.5,4,4.5,2
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Licensed professional,South Atlantic,5,4.5,4.5,1
+Female,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4,4.5,4.5,2
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,East North Central,2.5,2.5,3,0
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Student,Arts/performer,East North Central,3.5,4.5,4,3
+Female,45 to 54,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3,5,2
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$150K and up,Not employed-NOT looking for work,Not employed,West South Central,5,2.5,5,2.5
+Female,25 to 34,White,Some graduate school,Post-graduate,$0-$24K,Student,Sales/service,East North Central,4.5,4.5,4.5,1.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,East South Central,5,3.5,3.5,3
+Female,18 to 24,Multiple races,Some college,Some college,$25K-$49K,Student,Other,East North Central,5,5,3,2
+Female,45 to 54,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,5,3,4.5,2.5
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Technical/skilled trade,West South Central,4.5,4.5,3,3
+Female,25 to 34,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,South Atlantic,4.5,2.5,3.5,4.5
+Male,25 to 34,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,,4.5,3,4.5,3
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,2.5,2.5,1,2
+Male,45 to 54,Multiple races,Graduate degree,Post-graduate,$150K and up,Retired,Other,East South Central,4.5,3.5,5,2
+Male,35 to 44,American Indian or Alaskan Native,Some college,Some college,$0-$24K,Employed/Working FT,Technical/skilled trade,New England,4.5,2.5,5,3
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,East North Central,5,4.5,2.5,3
+Female,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Licensed professional,South Atlantic,3,5,5,2
+Female,45 to 54,Some other race,Some college,Some college,$50K-$74K,Employed/Working FT,Other,Pacific,4.5,3.5,3.5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Arts/performer,Middle Atlantic,4.5,4.5,5,1
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$75K-$99K,Disabled/Unable to work,Not employed,East North Central,5,5,5,0
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$0-$24K,Retired,Other,East North Central,5,3,5,2
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Sales/service,East North Central,4.5,3.5,4,3
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,2.5,3.5,4.5,4.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Pacific,3,2,1.5,1.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working part-time,Licensed professional,Middle Atlantic,4,3,4.5,3.5
+Female,55 to 64,White,Some college,Some college,$0-$24K,Employed/Working part-time,Contract/freelance,Pacific,3.5,3.5,3.5,4.5
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Logistics/transportation,East North Central,4.5,4.5,3,3
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Sales/service,Pacific,5,4.5,3,2.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Admin professional,Middle Atlantic,4.5,3.5,4,3
+Male,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,Mountain,4.5,2,4.5,4
+Male,45 to 54,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Other,West South Central,5,3,5,2
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working part-time,Licensed professional,West South Central,3,5,2.5,4.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,West North Central,4.5,3.5,3.5,3.5
+Female,55 to 64,White,Some graduate school,Post-graduate,$100K-$149K,Employed/Working FT,Other,South Atlantic,5,4.5,3.5,2
+Male,25 to 34,Asian,Bachelor degree,Bachelor degree,$0-$24K,Student,Not employed,Pacific,5,0,2,1
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,East North Central,3.5,3,5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Logistics/transportation,West North Central,5,2,5,3
+Female,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,South Atlantic,5,4.5,2,3.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,West North Central,3.5,3,4.5,4
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3,3.5,4.5,4
+Female,25 to 34,Black,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,West South Central,5,2.5,5,2.5
+Female,45 to 54,White,Some college,Some college,$100K-$149K,Retired,Owner/Exec/Mgmt,Pacific,4,3.5,5,2.5
+Female,18 to 24,White,Some college,Some college,$100K-$149K,Student,Admin professional,Middle Atlantic,5,3.5,4.5,2
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working part-time,Licensed professional,West North Central,4.5,2.5,5,3
+Female,18 to 24,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Admin professional,Pacific,4,4.5,4,2.5
+Female,18 to 24,White,Some college,Some college,$75K-$99K,Student,Not employed,East North Central,2.5,3,2,0.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,Middle Atlantic,2.5,2.5,5,5
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Other,South Atlantic,4.5,3,4,3.5
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Retired,Not employed,East North Central,5,3.5,4.5,2
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Admin professional,,5,3,3,4
+Female,18 to 24,White,Some graduate school,Post-graduate,$25K-$49K,Student,Other,Mountain,4.5,2.5,5,3
+Male,75 or older,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,Pacific,5,1,5,4
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,West North Central,4.5,3,4.5,3
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Other,East North Central,5,4.5,3,2.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,South Atlantic,4.5,2.5,5,3
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,Pacific,3.5,4,3,5
+Female,18 to 24,Multiple races,Some college,Some college,$25K-$49K,Employed/Working part-time,Admin professional,South Atlantic,2,2.5,3,0.5
+Male,18 to 24,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working part-time,Technical/skilled trade,East North Central,5,2.5,3,5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,Mountain,5,3,3,4.5
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,Middle Atlantic,4,3.5,5,3
+Male,25 to 34,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Other,Pacific,3.5,4.5,4.5,3
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,Middle Atlantic,2,4,4.5,5
+Male,18 to 24,White,Some HighSchool,HighSchool or less,$25K-$49K,Student,Other,Pacific,5,2.5,5,3
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Pacific,5,3.5,4,3
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Technical/skilled trade,Pacific,5,3,5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Technical/skilled trade,West South Central,5,1.5,4,5
+Male,35 to 44,White,Some college,Some college,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,2.5,5,4.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,3,1.5,3,0.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,West South Central,5,3,5,2.5
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Licensed professional,South Atlantic,3.5,3,4.5,4.5
+Male,18 to 24,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Technical/skilled trade,New England,5,3.5,3.5,3.5
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,Middle Atlantic,5,2.5,4,4
+Male,25 to 34,Multiple races,Some college,Some college,$25K-$49K,Employed/Working FT,Logistics/transportation,West South Central,5,0.5,5,5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,Mountain,4.5,4,4.5,2.5
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Retired,Not employed,New England,5,4.5,5,1
+Male,18 to 24,White,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Not employed,Pacific,3,5,4.5,3
+Male,45 to 54,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,Pacific,3.5,3,5,4
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Pacific,4.5,4,4,3
+Male,18 to 24,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,East North Central,0.5,1,0,0
+Male,45 to 54,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Sales/service,Middle Atlantic,2,2,2,2
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Arts/performer,West North Central,2.5,5,3.5,4.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,Pacific,5,2.5,5,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,New England,4.5,5,5,1
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4.5,2,4.5,4.5
+Female,45 to 54,White,Some graduate school,Post-graduate,$100K-$149K,Retired,Contract/freelance,Pacific,3.5,4.5,4.5,3
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Other,Pacific,5,3.5,5,2
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$50K-$74K,Retired,Other,West South Central,5,3.5,4.5,2.5
+Male,65 to 74,Some other race,Graduate degree,Post-graduate,$75K-$99K,Employed/Working part-time,Other,South Atlantic,4.5,3,4,4
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Licensed professional,West South Central,4.5,4.5,4.5,2
+Female,65 to 74,White,Some graduate school,Post-graduate,$25K-$49K,Employed/Working part-time,Licensed professional,East South Central,4,4.5,4,3
+Female,35 to 44,Asian,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,Pacific,2,2,2,2
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,New England,4.5,4.5,4,2.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,West North Central,3,4.5,5,3
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,East North Central,5,4.5,4,2
+Female,65 to 74,White,Some graduate school,Post-graduate,$75K-$99K,Retired,Admin professional,Pacific,3.5,5,5,2
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Disabled/Unable to work,Not employed,Mountain,5,4.5,4.5,1.5
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$25K-$49K,Retired,Not employed,Pacific,5,3.5,5,2
+Female,65 to 74,White,Some college,Some college,$100K-$149K,Retired,Not employed,Mountain,5,4.5,5,1
+Male,18 to 24,White,Some college,Some college,$75K-$99K,Student,Other,Middle Atlantic,3.5,4.5,2.5,5
+Female,25 to 34,Some other race,Some college,Some college,$25K-$49K,Employed/Working FT,Other,Pacific,4.5,3.5,3.5,4
+Female,25 to 34,Asian,Graduate degree,Post-graduate,$0-$24K,Not employed/Looking for work,Licensed professional,,3.5,4,5,3
+Female,25 to 34,Asian,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,Middle Atlantic,2,2,2,2
+Male,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Admin professional,East North Central,5,3,5,2.5
+Female,45 to 54,Multiple races,Some college,Some college,$75K-$99K,Employed/Working FT,Admin professional,Mountain,4.5,3,5,3
+Male,45 to 54,White,Some college,Some college,$75K-$99K,Employed/Working FT,Sales/service,Mountain,5,3.5,5,2
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,New England,4.5,5,3.5,2.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Student,Other,New England,4,3,4.5,4
+Female,18 to 24,White,Some college,Some college,$25K-$49K,Student,Admin professional,West North Central,4.5,3,5,3
+Female,35 to 44,Asian,Graduate degree,Post-graduate,$25K-$49K,Student,Not employed,East North Central,4.5,3.5,3,4.5
+Male,75 or older,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Retired,Not employed,South Atlantic,5,3,4.5,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Retired,Not employed,East North Central,5,4.5,5,1
+Female,18 to 24,Black,Some HighSchool,HighSchool or less,$0-$24K,Student,Not employed,South Atlantic,4.5,4,2.5,4.5
+Female,35 to 44,Some other race,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed-NOT looking for work,Not employed,East North Central,3,2.5,1,1.5
+Female,65 to 74,White,Some college,Some college,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,4.5,4.5,4.5,2
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,4,4,3
+Female,18 to 24,White,Some HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Not employed,East South Central,4.5,4,4,3
+Female,55 to 64,Asian,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,Pacific,5,4.5,5,1
+Female,25 to 34,Multiple races,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Other,Mountain,4.5,3.5,5,2.5
+Female,25 to 34,Multiple races,Some college,Some college,$0-$24K,Disabled/Unable to work,Not employed,West North Central,5,2.5,3.5,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,5,3,5,2.5
+Female,25 to 34,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,3,2.5,5,5
+Female,45 to 54,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Other,South Atlantic,3,5,2.5,5
+Female,65 to 74,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Sales/service,South Atlantic,5,4.5,4.5,1.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Admin professional,South Atlantic,4.5,3,0,1
+Male,75 or older,White,Some graduate school,Post-graduate,$150K and up,Retired,Technical/skilled trade,West South Central,4.5,3.5,3,4.5
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Licensed professional,East South Central,3,4.5,5,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Sales/service,Middle Atlantic,5,3,4.5,3
+Male,45 to 54,Asian,Bachelor degree,Bachelor degree,$25K-$49K,Not employed/Looking for work,Not employed,Middle Atlantic,4.5,4.5,4.5,2
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Technical/skilled trade,West South Central,5,3,5,2.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Admin professional,West North Central,5,3,4.5,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Sales/service,Pacific,4,4.5,5,2
+Male,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,South Atlantic,5,4,4.5,2
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Admin professional,West North Central,5,4.5,3.5,2.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,East North Central,5,3,4.5,3
+Female,55 to 64,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,2.5,2.5,3,0.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Admin professional,South Atlantic,2.5,5,5,3
+Female,35 to 44,White,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,4,4.5,2.5
+Female,55 to 64,White,Some college,Some college,$25K-$49K,Employed/Working FT,Sales/service,West South Central,5,3.5,5,2
+Female,55 to 64,Black,Bachelor degree,Bachelor degree,$0-$24K,Disabled/Unable to work,Not employed,South Atlantic,4.5,4.5,3.5,3
+Female,35 to 44,Multiple races,Some college,Some college,$0-$24K,Employed/Working FT,Other,West North Central,4.5,3.5,4.5,3
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3,4.5,5,3
+Female,55 to 64,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working part-time,Contract/freelance,East North Central,5,4.5,3.5,2.5
+Female,35 to 44,White,Some college,Some college,$0-$24K,Employed/Working FT,Admin professional,Pacific,5,3.5,4.5,2.5
+Female,25 to 34,Multiple races,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,Pacific,4.5,2,4.5,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,Mountain,5,3.5,3.5,3.5
+Female,45 to 54,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Other,Middle Atlantic,4,2,2.5,0
+Female,55 to 64,White,Some college,Some college,$75K-$99K,Employed/Working FT,Contract/freelance,South Atlantic,5,2.5,5,3
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,4,4.5,3.5,3.5
+Male,65 to 74,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,4.5,3.5,4.5,3
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Not employed-NOT looking for work,Not employed,South Atlantic,5,4.5,4.5,1.5
+Female,25 to 34,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Admin professional,South Atlantic,4.5,3,5,3
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,Middle Atlantic,4.5,4,4.5,2.5
+Female,75 or older,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Licensed professional,South Atlantic,4,5,4.5,2
+Male,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,3,3,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Owner/Exec/Mgmt,South Atlantic,4.5,1.5,5,4.5
+Female,45 to 54,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Contract/freelance,Pacific,4.5,5,5,1
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Not employed,Pacific,2,0.5,3.5,2.5
+Female,35 to 44,White,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,West North Central,3,2.5,5,5
+Male,55 to 64,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,,4.5,5,4.5,1.5
+Male,35 to 44,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed/Looking for work,Not employed,Middle Atlantic,5,4.5,4.5,2
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,3,4.5,4
+Male,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Not employed,West South Central,5,3,5,3
+Male,25 to 34,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,4.5,4.5,3,4
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,South Atlantic,5,3.5,4.5,3
+Male,25 to 34,White,Some college,Some college,$25K-$49K,Not employed/Looking for work,Technical/skilled trade,South Atlantic,3.5,3,5,4.5
+Male,18 to 24,Multiple races,Some college,Some college,$25K-$49K,Student,Sales/service,East North Central,5,3,3.5,4.5
+Male,35 to 44,White,Some college,Some college,$25K-$49K,Disabled/Unable to work,Not employed,West South Central,4,3.5,5,3.5
+Female,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,2,1.5,2.5,2.5
+Male,25 to 34,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,South Atlantic,4.5,3.5,5,3
+Male,25 to 34,Black,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,East North Central,5,2.5,5,3.5
+Male,35 to 44,Asian,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,Pacific,5,4.5,4.5,2
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,Mountain,4.5,3.5,4.5,3.5
+Male,35 to 44,Black,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,4.5,4.5,5,2
+Male,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,New England,4,3.5,4,4.5
+Male,35 to 44,Multiple races,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Sales/service,Middle Atlantic,4.5,5,1.5,5
+Male,25 to 34,White,Middle school,HighSchool or less,$25K-$49K,Employed/Working FT,Technical/skilled trade,Mountain,4,4,4,4
+Male,35 to 44,Multiple races,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,East North Central,4,2.5,5,4.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Sales/service,East North Central,4,4.5,4.5,3
+Female,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,East South Central,2.5,2,2,2
+Male,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working part-time,Technical/skilled trade,West South Central,5,4.5,4,2.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,West North Central,4.5,2.5,5,4
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,Pacific,4.5,3.5,5,3
+Male,25 to 34,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Licensed professional,West South Central,4.5,4.5,4.5,2.5
+Male,45 to 54,Black,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,3,4.5,5,3.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Admin professional,East North Central,4.5,3,5,3.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,3,4,5,4
+Male,45 to 54,White,Some college,Some college,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,4.5,3.5,4.5,3.5
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working part-time,Technical/skilled trade,New England,5,3.5,5,2.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Retired,Other,South Atlantic,2,4.5,5,4.5
+Male,55 to 64,White,Graduated from HighSchool,HighSchool or less,$100K-$149K,Employed/Working FT,Technical/skilled trade,Middle Atlantic,2,0,0,0
+Male,18 to 24,Black,Some college,Some college,$0-$24K,Employed/Working FT,Contract/freelance,East North Central,2.5,3,2,1
+Female,55 to 64,Some other race,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Mountain,5,4.5,3.5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Licensed professional,South Atlantic,4.5,3.5,4,4
+Male,25 to 34,Black,Some college,Some college,$150K and up,Student,Contract/freelance,South Atlantic,4,4,4,4
+Male,55 to 64,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,New England,4.5,3.5,4,4
+Female,65 to 74,White,Graduate degree,Post-graduate,$50K-$74K,Retired,Not employed,West North Central,5,3.5,4.5,3
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$75K-$99K,Retired,Not employed,East North Central,5,4.5,4.5,2
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Technical/skilled trade,West North Central,5,2.5,5,3.5
+Male,55 to 64,White,Some college,Some college,$150K and up,Retired,Not employed,South Atlantic,4,3.5,4.5,4
+Female,45 to 54,Asian,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,Pacific,4.5,3.5,3,5
+Female,65 to 74,White,Some college,Some college,$25K-$49K,Retired,Not employed,Pacific,4,4,4.5,3.5
+Female,18 to 24,Black,Some college,Some college,$150K and up,Not employed/Looking for work,Logistics/transportation,South Atlantic,2,3,2,1.5
+Male,35 to 44,White,Some HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,West North Central,5,3.5,5,2.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working part-time,Owner/Exec/Mgmt,West South Central,4.5,4.5,5,2
+Male,35 to 44,White,Some college,Some college,$50K-$74K,Employed/Working FT,Logistics/transportation,Pacific,3.5,4.5,5,3
+Female,18 to 24,White,Some college,Some college,$50K-$74K,Student,Not employed,West North Central,4.5,5,2.5,4
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$0-$24K,Not employed/Looking for work,Technical/skilled trade,West North Central,5,3,5,3
+Female,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,Pacific,4.5,3.5,3.5,4.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working part-time,Licensed professional,Pacific,5,4,4.5,2.5
+Female,35 to 44,White,Some college,Some college,$75K-$99K,Employed/Working FT,Owner/Exec/Mgmt,East South Central,3,4.5,3.5,5
+Female,18 to 24,White,Some HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Other,Mountain,5,4.5,4.5,2
+Male,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Technical/skilled trade,Pacific,4.5,2.5,4.5,4.5
+Other,25 to 34,White,Some college,Some college,$50K-$74K,Employed/Working FT,Sales/service,West North Central,1.5,1,3,3
+Female,25 to 34,White,Some graduate school,Post-graduate,$150K and up,Employed/Working FT,Admin professional,Pacific,4.5,4.5,4,3
+Female,25 to 34,White,Some college,Some college,$25K-$49K,Employed/Working FT,Licensed professional,Pacific,3.5,5,3.5,4
+Male,55 to 64,White,Bachelor degree,Bachelor degree,$150K and up,Employed/Working FT,Admin professional,Pacific,5,2,4.5,4.5
+Female,35 to 44,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Other,West South Central,4.5,3,5,3.5
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,West North Central,5,3,3.5,4.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Employed/Working FT,Admin professional,Pacific,2,4.5,4.5,5
+Female,25 to 34,White,Some college,Some college,$50K-$74K,Not employed-NOT looking for work,Not employed,South Atlantic,5,5,4.5,1.5
+Female,35 to 44,Some other race,Some college,Some college,$25K-$49K,Employed/Working part-time,Sales/service,Pacific,5,3.5,4,3.5
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Employed/Working FT,Other,Mountain,3,3,5,5
+Female,18 to 24,Asian,Bachelor degree,Bachelor degree,$25K-$49K,Student,Not employed,West North Central,4,3.5,4.5,4
+Male,55 to 64,American Indian or Alaskan Native,Some graduate school,Post-graduate,$25K-$49K,Employed/Working FT,Other,East South Central,1,2.5,2.5,2.5
+Male,45 to 54,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Licensed professional,Middle Atlantic,3.5,5,5,2.5
+Female,55 to 64,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Not employed-NOT looking for work,Not employed,South Atlantic,4.5,5,3.5,3
+Male,55 to 64,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working FT,Sales/service,South Atlantic,5,3.5,3,4.5
+Female,25 to 34,Black,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,Middle Atlantic,5,5,2.5,3.5
+Female,25 to 34,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working FT,Admin professional,Mountain,5,2.5,5,3.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Sales/service,West North Central,5,5,1.5,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Technical/skilled trade,West North Central,3.5,5,5,2.5
+Female,25 to 34,Black,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Licensed professional,East North Central,4.5,3.5,5,3
+Female,35 to 44,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working FT,Sales/service,East North Central,4,4,4,4
+Female,18 to 24,White,Some college,Some college,$0-$24K,Employed/Working part-time,Sales/service,East North Central,3,3,5,5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Owner/Exec/Mgmt,South Atlantic,3.5,2.5,1,1.5
+Female,25 to 34,Black,Some college,Some college,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3.5,5,2.5
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Technical/skilled trade,West North Central,4.5,4.5,4.5,2.5
+Male,45 to 54,White,Some college,Some college,$50K-$74K,Disabled/Unable to work,Not employed,Pacific,5,3,5,3
+Female,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East North Central,5,4,4,3
+Female,35 to 44,White,Some college,Some college,$150K and up,Employed/Working FT,Owner/Exec/Mgmt,South Atlantic,5,3,5,3
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$0-$24K,Disabled/Unable to work,Not employed,Middle Atlantic,4,5,5,2
+Male,45 to 54,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Other,South Atlantic,4.5,3.5,3.5,4.5
+Female,18 to 24,Multiple races,Graduated from HighSchool,HighSchool or less,$0-$24K,Employed/Working part-time,Sales/service,South Atlantic,5,1.5,5,4.5
+Female,45 to 54,White,Some college,Some college,$25K-$49K,Employed/Working part-time,Contract/freelance,Pacific,4.5,5,4,2.5
+Male,65 to 74,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Licensed professional,East North Central,5,5,3.5,2.5
+Male,65 to 74,White,Some college,Some college,$75K-$99K,Retired,Not employed,South Atlantic,2,1,5,0.5
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Not employed,West South Central,3.5,4.5,4.5,3.5
+Female,65 to 74,White,Some college,Some college,$150K and up,Retired,Owner/Exec/Mgmt,West North Central,5,4.5,3.5,3
+Female,18 to 24,Some other race,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,West South Central,5,3.5,5,2.5
+Male,65 to 74,White,Bachelor degree,Bachelor degree,$100K-$149K,Employed/Working part-time,Licensed professional,Middle Atlantic,3,4.5,4.5,4
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working FT,Admin professional,Mountain,5,3.5,3,4.5
+Female,45 to 54,White,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Admin professional,West South Central,3.5,4.5,4.5,3.5
+Female,35 to 44,White,Graduated from HighSchool,HighSchool or less,$25K-$49K,Disabled/Unable to work,Not employed,East South Central,5,3.5,3.5,4
+Female,35 to 44,White,Graduate degree,Post-graduate,$25K-$49K,Employed/Working FT,Licensed professional,West South Central,4.5,5,2.5,4
+Male,55 to 64,White,Some graduate school,Post-graduate,$50K-$74K,Employed/Working part-time,Contract/freelance,East South Central,5,3.5,3,4.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Admin professional,West South Central,4.5,3,5,3.5
+Male,18 to 24,White,Graduate degree,Post-graduate,$25K-$49K,Student,Other,Mountain,2.5,3.5,0,2.5
+Female,25 to 34,White,Bachelor degree,Bachelor degree,$0-$24K,Employed/Working FT,Admin professional,East North Central,4.5,3,4,4.5
+Female,55 to 64,White,Some college,Some college,$50K-$74K,Employed/Working FT,Licensed professional,South Atlantic,5,3,5,3
+Female,35 to 44,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Owner/Exec/Mgmt,Middle Atlantic,4,4,5,3
+Male,45 to 54,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Licensed professional,Mountain,5,3.5,5,2.5
+Female,25 to 34,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,Middle Atlantic,4.5,3.5,5,3
+Male,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Retired,Other,Middle Atlantic,5,2,4.5,4.5
+Male,65 to 74,White,Some graduate school,Post-graduate,$100K-$149K,Retired,Other,East South Central,5,3.5,4.5,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$75K-$99K,Not employed/Looking for work,Not employed,West South Central,5,3,4.5,3.5
+Male,25 to 34,White,Some college,Some college,$0-$24K,Not employed/Looking for work,Arts/performer,East North Central,4.5,5,5,2
+Male,55 to 64,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Licensed professional,East South Central,4.5,3,5,4
+Female,55 to 64,White,Graduate degree,Post-graduate,$25K-$49K,Retired,Not employed,Mountain,2.5,1.5,3,1.5
+Female,25 to 34,Black,Bachelor degree,Bachelor degree,$25K-$49K,Employed/Working FT,Owner/Exec/Mgmt,Pacific,3.5,4.5,3.5,5
+Male,25 to 34,Black,Some college,Some college,$25K-$49K,Not employed/Looking for work,Arts/performer,New England,4,4.5,4.5,3.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Owner/Exec/Mgmt,East North Central,5,4.5,5,2
+Male,18 to 24,White,Some college,Some college,$0-$24K,Student,Sales/service,Pacific,5,4.5,4.5,2.5
+Male,25 to 34,White,Graduated from HighSchool,HighSchool or less,$50K-$74K,Employed/Working FT,Other,South Atlantic,5,3.5,3,5
+Other,25 to 34,White,Graduate degree,Post-graduate,$100K-$149K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,3.5,4.5,3.5
+Male,35 to 44,White,Some graduate school,Post-graduate,$75K-$99K,Employed/Working FT,Technical/skilled trade,South Atlantic,5,4.5,4,3
+Male,25 to 34,Black,Some college,Some college,$0-$24K,Employed/Working FT,Sales/service,East South Central,4.5,3.5,4,4.5
+Male,25 to 34,White,Some HighSchool,HighSchool or less,$150K and up,Employed/Working FT,Technical/skilled trade,Middle Atlantic,5,5,5,1.5
+Female,18 to 24,American Indian or Alaskan Native,Graduated from HighSchool,HighSchool or less,$25K-$49K,Employed/Working part-time,Sales/service,East North Central,3.5,4.5,5,3.5
+Female,25 to 34,White,Some graduate school,Post-graduate,$0-$24K,Student,Other,New England,3,2,2.5,1
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Retired,Not employed,West North Central,3,5,5,3.5
+Male,35 to 44,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working FT,Admin professional,East North Central,4.5,4.5,4.5,3
+Male,55 to 64,White,Some college,Some college,$75K-$99K,Retired,Not employed,West North Central,4,4.5,4.5,3.5
+Male,45 to 54,Black,Some college,Some college,$0-$24K,Retired,Not employed,East South Central,4.5,4,5,3
+Male,55 to 64,White,Graduate degree,Post-graduate,$150K and up,Retired,Arts/performer,South Atlantic,5,2,5,4.5
+Male,45 to 54,American Indian or Alaskan Native,Graduated from HighSchool,HighSchool or less,$0-$24K,Not employed/Looking for work,Not employed,West South Central,5,4.5,4,3
+Male,18 to 24,Asian,Some graduate school,Post-graduate,$0-$24K,Student,Not employed,East North Central,4.5,3.5,3.5,5
+Female,55 to 64,White,Some college,Some college,$0-$24K,Retired,Other,South Atlantic,5,3,4.5,4
+Female,65 to 74,White,Some college,Some college,$50K-$74K,Retired,Not employed,East North Central,5,4.5,3.5,3.5
+Female,65 to 74,White,Graduate degree,Post-graduate,$150K and up,Employed/Working part-time,Admin professional,South Atlantic,5,5,3.5,3
+Female,35 to 44,White,Some college,Some college,$100K-$149K,Not employed-NOT looking for work,Other,Pacific,2,3,2.5,1
+Male,25 to 34,Black,Bachelor degree,Bachelor degree,$75K-$99K,Employed/Working FT,Other,South Atlantic,4.5,4.5,4,3.5
+Female,45 to 54,Asian,Some graduate school,Post-graduate,$25K-$49K,Employed/Working part-time,Admin professional,New England,4.5,5,5,2
+Male,55 to 64,White,Some college,Some college,$25K-$49K,Retired,Not employed,Mountain,5,5,4.5,2
+Female,65 to 74,Some other race,Some graduate school,Post-graduate,$50K-$74K,Retired,Arts/performer,Pacific,3,4.5,4.5,4.5
+Male,45 to 54,Asian,Bachelor degree,Bachelor degree,$50K-$74K,Not employed/Looking for work,Admin professional,West South Central,5,2.5,4.5,4.5
+Female,55 to 64,White,Some college,Some college,$0-$24K,Disabled/Unable to work,Licensed professional,East North Central,4.5,3,4.5,4.5
+Female,55 to 64,White,Bachelor degree,Bachelor degree,$50K-$74K,Employed/Working part-time,Owner/Exec/Mgmt,Middle Atlantic,5,4.5,5,2
+Male,55 to 64,White,Graduate degree,Post-graduate,$50K-$74K,Employed/Working part-time,Contract/freelance,East North Central,5,2.5,5,4
+Female,75 or older,White,Some graduate school,Post-graduate,$75K-$99K,Retired,Other,West South Central,5,3.5,3.5,4.5
+Male,45 to 54,White,Some college,Some college,$150K and up,Employed/Working FT,Sales/service,South Atlantic,4.5,5,5,2

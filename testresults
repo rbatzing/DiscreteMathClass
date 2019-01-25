@@ -1,0 +1,140 @@
+#<Group:0x00000000050d52f0>
+Method A =======================================		
+nABC:90    Only excluded members
+A:   28    Only members of A
+B:   25    Only members of B
+C:   31    Only members of C
+AB:  5    Only members of A & B
+AC:  10    Only members of A & C
+BC:  5    Only members of B & C
+ABC: 6    Only members of A&B&C
+U:   200    All individuals
+
+Method B =======================================		
+nABC:90    Only excluded members
+A:   28    Only members of A
+B:   25    Only members of B
+C:   31    Only members of C
+AB:  5    Only members of A & B
+AC:  10    Only members of A & C
+BC:  5    Only members of B & C
+ABC: 6    Only members of A&B&C
+U:   200    All individuals
+
+Method C =======================================		
+nABC:90    Only excluded members
+A:   28    Only members of A
+B:   25    Only members of B
+C:   31    Only members of C
+AB:  5    Only members of A & B
+AC:  10    Only members of A & C
+BC:  5    Only members of B & C
+ABC: 6    Only members of A&B&C
+U:   200    All individuals
+
+Method D =======================================		
+nABC:90    Only excluded members
+A:   28    Only members of A
+B:   25    Only members of B
+C:   31    Only members of C
+AB:  5    Only members of A & B
+AC:  10    Only members of A & C
+BC:  5    Only members of B & C
+ABC: 6    Only members of A&B&C
+U:   200    All individuals
+
+Method E =======================================		
+nABC:90    Only excluded members
+A:   28    Only members of A
+B:   25    Only members of B
+C:   31    Only members of C
+AB:  5    Only members of A & B
+AC:  10    Only members of A & C
+BC:  5    Only members of B & C
+ABC: 6    Only members of A&B&C
+U:   200    All individuals
+
+Rehearsal ------------------------------------------------
+Method A       0.125000   0.000000   0.125000 (  0.137590)
+Method B       0.032000   0.000000   0.032000 (  0.026905)
+Method C       0.140000   0.000000   0.140000 (  0.133429)
+Method D       0.078000   0.000000   0.078000 (  0.089751)
+Method E       0.047000   0.000000   0.047000 (  0.040200)
+--------------------------------------- total: 0.422000sec
+
+                   user     system      total        real
+Method A       0.141000   0.000000   0.141000 (  0.136344)
+Method B       0.031000   0.000000   0.031000 (  0.025938)
+Method C       0.125000   0.000000   0.125000 (  0.133192)
+Method D       0.094000   0.000000   0.094000 (  0.089243)
+Method E       0.047000   0.000000   0.047000 (  0.040167)
+#<Group:0x000000000512d7c0>
+Method A =======================================		
+nABC:844    Only excluded members
+A:   285    Only members of A
+B:   267    Only members of B
+C:   313    Only members of C
+AB:  92    Only members of A & B
+AC:  78    Only members of A & C
+BC:  82    Only members of B & C
+ABC: 39    Only members of A&B&C
+U:   2000    All individuals
+
+Method B =======================================		
+nABC:844    Only excluded members
+A:   285    Only members of A
+B:   267    Only members of B
+C:   313    Only members of C
+AB:  92    Only members of A & B
+AC:  78    Only members of A & C
+BC:  82    Only members of B & C
+ABC: 39    Only members of A&B&C
+U:   2000    All individuals
+
+Method C =======================================		
+nABC:844    Only excluded members
+A:   285    Only members of A
+B:   267    Only members of B
+C:   313    Only members of C
+AB:  92    Only members of A & B
+AC:  78    Only members of A & C
+BC:  82    Only members of B & C
+ABC: 39    Only members of A&B&C
+U:   2000    All individuals
+
+Method D =======================================		
+nABC:844    Only excluded members
+A:   285    Only members of A
+B:   267    Only members of B
+C:   313    Only members of C
+AB:  92    Only members of A & B
+AC:  78    Only members of A & C
+BC:  82    Only members of B & C
+ABC: 39    Only members of A&B&C
+U:   2000    All individuals
+
+Method E =======================================		
+nABC:844    Only excluded members
+A:   285    Only members of A
+B:   267    Only members of B
+C:   313    Only members of C
+AB:  92    Only members of A & B
+AC:  78    Only members of A & C
+BC:  82    Only members of B & C
+ABC: 39    Only members of A&B&C
+U:   2000    All individuals
+
+Rehearsal ------------------------------------------------
+Method A       1.141000   0.016000   1.157000 (  1.156238)
+Method B       0.219000   0.000000   0.219000 (  0.220729)
+Method C       1.531000   0.000000   1.531000 (  1.519943)
+Method D       1.031000   0.000000   1.031000 (  1.042514)
+Method E       0.438000   0.000000   0.438000 (  0.450008)
+--------------------------------------- total: 4.376000sec
+
+                   user     system      total        real
+Method A       1.141000   0.000000   1.141000 (  1.146691)
+Method B       0.219000   0.000000   0.219000 (  0.217297)
+Method C       1.515000   0.000000   1.515000 (  1.516562)
+Method D       1.047000   0.000000   1.047000 (  1.036433)
+Method E       0.453000   0.000000   0.453000 (  0.448765)
