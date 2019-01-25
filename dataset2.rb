@@ -219,14 +219,4 @@ puts "Average =  #{mean} +/- #{sd}"
 __END__
 
 
-puts "1x1 attribute analysis"
-d.fieldNames.each do |f|
-  puts "Attribute counts: #{f}\n #{'=' * 32}"
-  puts "#{d.countColumn([f])}\n\n"
-end
-puts "Attribute points: :points, :variety\n#{'=' * 32}"
-puts "#{d.countColumn([:points,:price,:variety])}\n\n"
-10.times {
-    puts "Yes: %i, No: %i,  Time: %f\n" % d.select
-}
 
